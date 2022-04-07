@@ -11,13 +11,13 @@
     "_hash": "6736ae8ea979b1b3983aa86c0dcb3aaacc8a51018a94af85c549b9e0854e397e"
   },
   "controller": {
-    "name": "Amazon Europe Core S.\u00e0.r.l., die Amazon EU S.\u00e0.r.l, die Amazon Services Europe S.\u00e0.r.l. und die Amazon Media EU S.\u00e0.r.l.",
+    "name": "Amazon Europe Core S.\u00e0.r.l., die Amazon EU S.\u00e0.r.l, die Amazon Services Europe S.\u00e0.r.l., und die Amazon Media EU S.\u00e0.r.l. (Zusammen Amazon Europe)",
     "country": "Luxemburg",
     "address": "38, avenue John F. Kennedy, L-1855",
     "division": null,
     "representative": {
       "name": null,
-      "email": null,
+      "email": 'eu-privacy@amazon.de',
       "phone": null
     }
   },
@@ -25,7 +25,7 @@
     "email": "eu-privacy@amazon.de",
     "phone": null,
     "country": null,
-    "name": null,
+    "name": 'Darüber hinaus können Sie den Datenschutzbeauftragten der oben genannten datenschutzrechtlichen Verantwortlichen unter eu-privacy@amazon.de erreichen. ',
     "address": null
   },
   "dataDisclosed": [
