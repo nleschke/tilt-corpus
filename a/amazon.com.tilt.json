@@ -1,33 +1,34 @@
 {
-  "meta": {
-    "_id": "f364a1b7-af84-43ae-a18d-7aa9b0c2f259",
-    "name": "Amazon Alexa Terms of Use",
-    "created": "2021-07-16T08:44:48.404159",
-    "modified": "2021-07-16T08:44:48.404180",
-    "version": 1,
-    "language": "en",
-    "status": "active",
-    "url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=201809740",
-    "_hash": "2ebec9c58a92f02efa1906cf685d13c67331008c3ca47428b431c3b3b157c47b"
-  },
-  "controller": {
-    "name": "Amazon.com Services LLC",
-    "country": null,
-    "address": null,
-    "division": null,
-    "representative": {
-      "name": null,
-      "email": null,
-      "phone": null
-    }
-  },
-  "dataProtectionOfficer": {
-    "email": null,
-    "phone": null,
-    "country": null,
-    "name": null,
-    "address": null
-  },
+    _id: ObjectId('624db6aae7dfaf542ddf53ac'),
+    meta: {
+        _id: 'f364a1b7-af84-43ae-a18d-7aa9b0c2f259',
+        name: 'Amazon Alexa',
+        created: '2021-07-16T08:44:48.404159',
+        modified: '2021-07-16T08:44:48.404180',
+        version: 1,
+        language: 'en',
+        status: 'active',
+        url: 'https://www.amazon.com/gp/help/customer/display.html?nodeId=201809740',
+        _hash: '2ebec9c58a92f02efa1906cf685d13c67331008c3ca47428b431c3b3b157c47b'
+    },
+    controller: {
+        name: 'Amazon Europe',
+        country: 'Luxembourg',
+        address: 'John F. Kennedy L-1855 Luxembourg',
+        division: null,
+        representative: {
+            name: 'Amazon Europe Core S.à.r.l., Amazon EU S.à.r.l, Amazon Services Europe S.à.r.l., Amazon Media EU S.à.r.l.',
+            email: 'eu-privacy@amazon.de',
+            phone: null
+        }
+    },
+    dataProtectionOfficer: {
+        email: 'eu-privacy@amazon.de',
+        phone: null,
+        country: null,
+        name: ' the data protection officer for the above mentioned data controllers can be contacted at eu-privacy@amazon.de',
+        address: null
+    },
   "dataDisclosed": [
     {
       "_id": "277eb7ac-b510-4e9c-92e0-7228c3371461",
