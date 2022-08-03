@@ -11,10 +11,10 @@
     "_hash": "6f23c41f9095b4cecb5c16d3b48a8f7c3a5052b14e976c6c84ae2eb5cc4547b9"
   },
   "controller": {
-    "name": "Twitter ",
-    "country": null,
-    "address": null,
-    "division": null,
+    "name": "Twitter International Unlimited",
+    "country": "IE",
+    "address": "Twitter International Unlimited Company\nAttn: Data Protection Officer\nOne Cumberland Place, Fenian Street\nDublin 2, D02 AX07 IRELAND",
+    "division": "Data Protection Officer",
     "representative": {
       "name": null,
       "email": null,
@@ -22,32 +22,56 @@
     }
   },
   "dataProtectionOfficer": {
-    "email": null,
+    "email": "https://twitter.ethicspointvp.com/custom/twitter/forms/data/form_data.asp",
     "phone": null,
-    "country": null,
+    "country": "IE",
     "name": null,
-    "address": null
+    "address": "Twitter International Unlimited Company\nAttn: Data Protection Officer\nOne Cumberland Place, Fenian Street\nDublin 2, D02 AX07 IRELAND"
   },
   "dataDisclosed": [
     {
       "_id": "c587809a-0d6f-48fa-b50b-f1ebe3c87db9",
-      "category": "When you use Twitter, even if you\u2019re just looking at Tweets, we receive some personal information from you like the type of device you\u2019re using and your IP address. You can choose to share additional information with us like your email address, phone number, address book contacts, and a public profile. We use this information for things like keeping your account secure and showing you more relevant Tweets, people to follow, events, and ads.",
+      "category": "the type of device you\u2019re using and your IP addressing",
       "purposes": [
         {
-          "purpose": [],
-          "description": []
+          "purpose": "security",
+          "description": "Safety and security features, including authentication, anti-spam, fraud protection, and quality and abuse prevention"
+        },
+        {
+          "purpose":"",
+          "description":"and showing you more relevant Tweets, people to follow, events, and ads."
+        },
+        {
+          "purpose":"Operating our services",
+          "description":"Operating our services, including:\nAccount creation\nAccount controls\nContent creation, including Tweets, Retweets, likes, and Direct Messages\nContent display, recommendations, and ranking, such as in your timeline, trends, conversations, Moments, or search\nDeveloper products, including our APIs and embeds\nService-related notifications and customer support\nAnalytics\nAdvertiser products"
+        },
+        {
+          "purpose":"Advertising",
+          "description":"Advertising we show you on Twitter based on data you provide or we collect on Twitter and advertising we show you on other websites or mobile applications based only on information collected there"
+        },
+        {
+          "purpose":"Personalize",
+          "description":"Personalize based on your inferred identity"
+        },
+        {
+          "purpose":"processing activites",
+          "description":"The processing activities described above:\nOperating our services\nSafety and security\nInferences\nPersonalized advertising\nMeasuring the effectiveness of advertising we show you\nSharing data with our service providers"
         }
       ],
       "legalBases": [
         {
-          "reference": [],
-          "description": []
+          "reference": "GDPR-6-1-a",
+          "description": "We also offer you the ability to further personalize the ads you see based on data we receive about you from our advertising partners. If you are located in the European Union, an EFTA State, or the United Kingdom, we rely on consent as our legal basis for processing your data to provide these ads."
+        },
+        {
+          "reference":"GDPR-6-1-b",
+          "description":"Contractual necessity"
         }
       ],
       "legitimateInterests": [
         {
-          "reasoning": [],
-          "exists": []
+          "reasoning": "To provide this advertising we process some of your data, and for data from the European Union, EFTA States, and the United Kingdom we rely on legitimate interests as the legal basis for doing so. Twitter uses information that individuals provide and data that it receives (as described in Twitter’s Privacy Policy) to make inferences about the people who use Twitter and content on the platform. This includes inferences like what topics people may be interested in, how old a person is, what languages a person speaks, and whether the content of one account may be of interest to others on the platform. This helps Twitter offer better services and personalize the content Twitter shows, including ads. Without these inferences, people would have a harder time finding content that interested them, Twitter would have a more difficult time keeping the platform safe and enjoyable for everyone, and Twitter’s advertising would be less compelling to those who saw it and less valuable to Twitter’s business customers.",
+          "exists": true
         }
       ],
       "recipients": [
@@ -75,52 +99,7 @@
         "obligationToProvide": null
       }
     },
-    {
-      "_id": "9bf6fb82-abc3-4f54-a19f-6e9335e7048f",
-      "category": "In addition to information you share with us, we use your Tweets, content you\u2019ve read, Liked, or Retweeted, and other information to determine what topics you\u2019re interested in, your age, the languages you speak, and other signals to show you more relevant content. We give you transparency into that information, and you can modify or correct it at any time.",
-      "purposes": [
-        {
-          "purpose": [],
-          "description": []
-        }
-      ],
-      "legalBases": [
-        {
-          "reference": [],
-          "description": []
-        }
-      ],
-      "legitimateInterests": [
-        {
-          "reasoning": [],
-          "exists": []
-        }
-      ],
-      "recipients": [
-        {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
-        }
-      ],
-      "storage": [
-        {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
-        }
-      ],
-      "nonDisclosure": {
-        "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
-      }
-    },
+
     {
       "_id": "6426124a-65b3-4781-bbfc-26dd51f3ea95",
       "category": "Basic Account Information",
@@ -241,7 +220,23 @@
           "division": [],
           "address": [],
           "representative": [],
-          "category": []
+          "category": "our affiliates"
+        },
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": "third-party partners"
+        },
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": "service providers"
         }
       ],
       "storage": [
@@ -354,52 +349,6 @@
     {
       "_id": "3cd2d457-83e5-4355-8450-27b2c5a5fb4d",
       "category": "Location Information",
-      "purposes": [
-        {
-          "purpose": [],
-          "description": []
-        }
-      ],
-      "legalBases": [
-        {
-          "reference": [],
-          "description": []
-        }
-      ],
-      "legitimateInterests": [
-        {
-          "reasoning": [],
-          "exists": []
-        }
-      ],
-      "recipients": [
-        {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
-        }
-      ],
-      "storage": [
-        {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
-        }
-      ],
-      "nonDisclosure": {
-        "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
-      }
-    },
-    {
-      "_id": "08b49525-60d3-45c8-8b6f-730f10368ef1",
-      "category": "Links",
       "purposes": [
         {
           "purpose": [],
@@ -594,7 +543,7 @@
   "accessAndDataPortability": {
     "available": true,
     "description": "Twitter provides you a means to download the information you have shared through our services by following the steps here. Periscope provides you a means to download the information you have shared through our services by following the steps here.",
-    "url": null,
+    "url": "https://help.twitter.com/en/managing-your-account/how-to-download-your-twitter-archive",
     "email": null,
     "identificationEvidences": [],
     "administrativeFee": {
@@ -611,8 +560,8 @@
     }
   ],
   "rightToInformation": {
-    "available": true,
-    "description": "You can also download information you have shared on Twitter. ",
+    "available": null,
+    "description": null,
     "url": null,
     "email": null,
     "identificationEvidences": []
@@ -620,36 +569,36 @@
   "rightToRectificationOrDeletion": {
     "available": true,
     "description": "If you have registered an account on Twitter, we provide you with tools and account settings to access, correct, delete, or modify the personal data you provided to us and associated with your account. You can download certain account information, including your Tweets, by following the instructions here. On Periscope, you can request correction, deletion, or modification of your personal data, and download your account information, by following the instructions here. You can learn more about the interests we have inferred about you in Your Twitter Data and request access to additional information here. To submit a request related to access, modification, or deletion of your information, or someone else\u2019s information if you are their authorized agent, you may also contact us as specified in the How To Contact Us section of our Privacy Policy (Additional Information or Assistance). We may require you to provide additional information for verification.",
-    "url": null,
+    "url": "https://help.twitter.com/en/using-twitter/manage-periscope-account",
     "email": null,
     "identificationEvidences": []
   },
   "rightToDataPortability": {
-    "available": null,
-    "description": null,
-    "url": null,
+    "available": true,
+    "description": "You can download a copy of your information, such as your Tweets, by following the instructions here.",
+    "url": "https://help.twitter.com/en/managing-your-account/how-to-download-your-twitter-archive",
     "email": null,
     "identificationEvidences": []
   },
   "rightToWithdrawConsent": {
-    "available": null,
-    "description": null,
+    "available": true,
+    "description": "You can manage your privacy settings and other account features here. If you change your settings it may take some time for your choices to be fully reflected throughout our systems. You may also notice changes in your Twitter experience or limitations in your ability to access certain features depending on the settings you’ve adjusted.\nTwitter adheres to the Digital Advertising Alliance Self-Regulatory Principles for Online Behavioral Advertising (also referred to as “interest-based advertising”) and respects the DAA’s consumer choice tool for you to opt out of interest-based advertising at https://optout.aboutads.info/.",
     "url": null,
     "email": null,
     "identificationEvidences": []
   },
   "rightToComplain": {
-    "available": null,
-    "description": null,
+    "available": true,
+    "description": "If you wish to raise a concern about our data processing practices, you have the right to do so with your local supervisory authority or Twitter International Unlimited Company’s lead supervisory authority, the Irish Data Protection Commission, using the contact details listed on their website",
     "url": null,
     "email": null,
     "identificationEvidences": [],
     "supervisoryAuthority": {
-      "name": null,
-      "address": null,
-      "country": null,
-      "email": null,
-      "phone": null
+      "name": "Irish Data Protection Commission",
+      "address": "Data Protection Commission\n21 Fitzwilliam Square South\nDublin 2\nD02 RD28\nIreland",
+      "country": "IE",
+      "email": "https://forms.dataprotection.ie/contact",
+      "phone": "01 7650100 / 1800437 737 "
     }
   },
   "automatedDecisionMaking": {
