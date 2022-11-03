@@ -1,0 +1,672 @@
+{
+  "meta": {
+    "_id": "cc230723-579e-4d22-a0c6-f4a2401ab14f",
+    "name": "wikimedia",
+    "created": "2022-10-28T12:21:52.509774",
+    "modified": "2022-10-28T12:21:52.509774",
+    "version": 1,
+    "language": "de",
+    "status": "active",
+    "url": "https://foundation.wikimedia.org/wiki/Privacy_policy",
+    "_hash": "42fe7e4e8c2825ef6bc97866d645f1a650472646faeb0efaacc56ced00a02fd4"
+  },
+  "controller": {
+    "name": "Wikimedia Foundation, Inc.",
+    "country": "US",
+    "address": "Wikimedia Foundation, Inc. \n1 Montgomery Street \nSuite 1600 \nSan Francisco, California 94104",
+    "division": null,
+    "representative": {
+      "name": null,
+      "email": null,
+      "phone": null
+    }
+  },
+  "dataProtectionOfficer": {
+    "email": "EUrepresentative.Wikimedia@twobirds.com",
+    "phone": null,
+    "country": "IE",
+    "name": "Vincent Rezzouk-Hammachi",
+    "address": "Bird & Bird GDPR Representative Ireland \n29 Earlsfort Terrace \nDublin 2\nD02 AY28 \nIreland"
+  },
+  "dataDisclosed": [
+    {
+      "_id": "282f01fd-4c7f-4afe-913c-bbda92250a76",
+      "category": "username",
+      "purposes": [
+        {
+          "purpose":"Operating the Wikimedia Sites, sharing your contributions and administering our Services.",
+          "description":"To help you share your knowledge with the world and add new features to our Services. \nTo arrange access to your account and provide you with related service. \nTo send administrative information to you, such as changes to our policies.\nTo allow you to send messages to another person if you choose to do so. Direct communications between users (such as messages sent through the Email this user feature), to the extent such communications are nonpublic and stored in or in transit through Wikimedia Foundation systems, are kept confidential by us, except as provided in this Policy.\nWe engage in these activities to manage our relationship with you, because we have a legitimate interest and/or to comply with our legal obligations. "
+        },
+        {
+          "purpose":"Providing customized Services.",
+          "description":"To provide to you custom content, notices and settings and to enhance your experience with the Wikimedia Sites. \nWe will customize the Services, in some instances, with your consent; or in keeping with our legitimate interest. "
+        },
+        {
+          "purpose":"Sending emails with news updates and communications about items we believe may be of interest to you.",
+          "description":"To let you know about things that are happening with the Wikimedia Foundation, the Wikimedia Sites or the Wikimedia movement. \nTo alert you when there has been a change to an article that you have decided to follow.\n\nWe will send these types of emails to you only with your consent except as otherwise permitted by applicable law. We do not sell, rent, or use your email address to advertise third-party products or services to you. You can manage what kinds of notifications you receive and how often you receive them by going to your Notifications Preferences and User profile"
+        },
+        {
+          "purpose":"Sending optional surveys and requesting feedback.",
+          "description":"We will always tell you, at the time we give you an opportunity to share your thoughts, how we plan on using your answers and any Personal Information you provide. Your responses to our surveys and feedback requests are always optional. We will email these types of requests to you only with your consent except as otherwise permitted by applicable law. You can manage what kinds of notifications you receive and how often you receive them by going to your Notifications Preferences and User profile"
+        },
+        {
+          "purpose":"Improving the Wikimedia Sites and making your user experience safer and better.",
+          "description":"To use your public contributions, either aggregated with the public contributions of others or individually, to create new features or data-related products for you or to learn more about how the Wikimedia Sites are used.\nTo fight spam, identity theft, malware and other kinds of abuse.\nTo optimize mobile and other applications. To test features to see what works, understand how users interact with the Wikimedia Sites, track and study use of various features, gain understanding about the demographics of the different Wikimedia Sites and analyze trends.\n\nWe engage in these activities to further our legitimate interest and/or to comply with our legal obligations. "
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": "GDPR-6-1-a",
+          "description": "Put simply, we use this information to enhance your experience with Wikimedia Sites. For example, we use this information to administer the sites, provide greater security, and fight vandalism; optimize mobile applications, customize content and set language preferences, test features to see what works, and improve performance; understand how users interact with the Wikimedia Sites, track and study use of various features, gain understanding about the demographics of the different Wikimedia Sites, and analyze trends. "
+        },
+        {
+          "reference": "GDPR-6-1-f",
+          "description": "We and our service providers use your information for the legitimate purpose of pursuing our charitable mission"
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": "We and our service providers use your information for the legitimate purpose of pursuing our charitable mission",
+          "exists": true
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": "local chapter"
+        },
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": "based on a judicial or administrative order"
+        },
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": "Service Providers"
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [
+            "we keep it for the shortest possible time that is consistent with the maintenance, understanding, and improvement of the Wikimedia Sites",
+            "and our obligations under applicable law"
+          ],
+          "legalBasisConditional": [
+          ],
+          "temporal": [
+            {
+              "description":"In most instances, Personal Information is deleted, aggregated or de-identified after 90 days",
+              "ttl":"P-90-d"
+            }
+          ],
+          "aggregationFunction": "max"
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": "You are not required to create an account to read or contribute to a Wikimedia Site, except under rare circumstances. However, if you contribute without signing in, your contribution will be publicly attributed to the IP address associated with your device.",
+        "legalRequirement": false,
+        "contractualRegulation": false,
+        "obligationToProvide": false
+      }
+    },
+    {
+      "_id": "bcd6a269-bc68-4e32-9500-ac4b32d69d46",
+      "category": "IP address",
+      "purposes": [
+        {
+          "purpose": "infer location",
+          "description": "Finally, when you visit any Wikimedia Site, we automatically receive the IP address of the device (or your proxy server) you are using to access the Internet, which could be used to infer your geographical location. "     
+        },
+        {
+          "purpose":"Operating the Wikimedia Sites, sharing your contributions and administering our Services.",
+          "description":"To help you share your knowledge with the world and add new features to our Services. \nTo arrange access to your account and provide you with related service. \nTo send administrative information to you, such as changes to our policies.\nTo allow you to send messages to another person if you choose to do so. Direct communications between users (such as messages sent through the Email this user feature), to the extent such communications are nonpublic and stored in or in transit through Wikimedia Foundation systems, are kept confidential by us, except as provided in this Policy.\nWe engage in these activities to manage our relationship with you, because we have a legitimate interest and/or to comply with our legal obligations. "
+        },
+        {
+          "purpose":"Providing customized Services.",
+          "description":"To provide to you custom content, notices and settings and to enhance your experience with the Wikimedia Sites. \nWe will customize the Services, in some instances, with your consent; or in keeping with our legitimate interest. "
+        },
+        {
+          "purpose":"Sending emails with news updates and communications about items we believe may be of interest to you.",
+          "description":"To let you know about things that are happening with the Wikimedia Foundation, the Wikimedia Sites or the Wikimedia movement. \nTo alert you when there has been a change to an article that you have decided to follow.\n\nWe will send these types of emails to you only with your consent except as otherwise permitted by applicable law. We do not sell, rent, or use your email address to advertise third-party products or services to you. You can manage what kinds of notifications you receive and how often you receive them by going to your Notifications Preferences and User profile"
+        },
+        {
+          "purpose":"Sending optional surveys and requesting feedback.",
+          "description":"We will always tell you, at the time we give you an opportunity to share your thoughts, how we plan on using your answers and any Personal Information you provide. Your responses to our surveys and feedback requests are always optional. We will email these types of requests to you only with your consent except as otherwise permitted by applicable law. You can manage what kinds of notifications you receive and how often you receive them by going to your Notifications Preferences and User profile"
+        },
+        {
+          "purpose":"Improving the Wikimedia Sites and making your user experience safer and better.",
+          "description":"To use your public contributions, either aggregated with the public contributions of others or individually, to create new features or data-related products for you or to learn more about how the Wikimedia Sites are used.\nTo fight spam, identity theft, malware and other kinds of abuse.\nTo optimize mobile and other applications. To test features to see what works, understand how users interact with the Wikimedia Sites, track and study use of various features, gain understanding about the demographics of the different Wikimedia Sites and analyze trends.\n\nWe engage in these activities to further our legitimate interest and/or to comply with our legal obligations. "
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": "GDPR-6-1-a",
+          "description": "Put simply, we use this information to enhance your experience with Wikimedia Sites. For example, we use this information to administer the sites, provide greater security, and fight vandalism; optimize mobile applications, customize content and set language preferences, test features to see what works, and improve performance; understand how users interact with the Wikimedia Sites, track and study use of various features, gain understanding about the demographics of the different Wikimedia Sites, and analyze trends. "
+        },
+        {
+          "reference": "GDPR-6-1-f",
+          "description": "We and our service providers use your information for the legitimate purpose of pursuing our charitable mission"
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": "We and our service providers use your information for the legitimate purpose of pursuing our charitable mission",
+          "exists": true
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": "local chapter"
+        },
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": "based on a judicial or administrative order"
+        },
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": "Service Providers"
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [
+            "we keep it for the shortest possible time that is consistent with the maintenance, understanding, and improvement of the Wikimedia Sites",
+            "and our obligations under applicable law"
+          ],
+          "legalBasisConditional": [
+          ],
+          "temporal": [
+            {
+              "description":"In most instances, Personal Information is deleted, aggregated or de-identified after 90 days",
+              "ttl":"P-90-d"
+            }
+          ],
+          "aggregationFunction": "max"
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": [],
+        "legalRequirement": false,
+        "contractualRegulation": false,
+        "obligationToProvide": false
+      }
+    },
+    {
+      "_id": "4333e2ca-65b1-473a-ab9e-4be10e7d74db",
+      "category": "email",
+      "purposes": [
+        {
+          "purpose":"Operating the Wikimedia Sites, sharing your contributions and administering our Services.",
+          "description":"To help you share your knowledge with the world and add new features to our Services. \nTo arrange access to your account and provide you with related service. \nTo send administrative information to you, such as changes to our policies.\nTo allow you to send messages to another person if you choose to do so. Direct communications between users (such as messages sent through the Email this user feature), to the extent such communications are nonpublic and stored in or in transit through Wikimedia Foundation systems, are kept confidential by us, except as provided in this Policy.\nWe engage in these activities to manage our relationship with you, because we have a legitimate interest and/or to comply with our legal obligations. "
+        },
+        {
+          "purpose":"Providing customized Services.",
+          "description":"To provide to you custom content, notices and settings and to enhance your experience with the Wikimedia Sites. \nWe will customize the Services, in some instances, with your consent; or in keeping with our legitimate interest. "
+        },
+        {
+          "purpose":"Sending emails with news updates and communications about items we believe may be of interest to you.",
+          "description":"To let you know about things that are happening with the Wikimedia Foundation, the Wikimedia Sites or the Wikimedia movement. \nTo alert you when there has been a change to an article that you have decided to follow.\n\nWe will send these types of emails to you only with your consent except as otherwise permitted by applicable law. We do not sell, rent, or use your email address to advertise third-party products or services to you. You can manage what kinds of notifications you receive and how often you receive them by going to your Notifications Preferences and User profile"
+        },
+        {
+          "purpose":"Sending optional surveys and requesting feedback.",
+          "description":"We will always tell you, at the time we give you an opportunity to share your thoughts, how we plan on using your answers and any Personal Information you provide. Your responses to our surveys and feedback requests are always optional. We will email these types of requests to you only with your consent except as otherwise permitted by applicable law. You can manage what kinds of notifications you receive and how often you receive them by going to your Notifications Preferences and User profile"
+        },
+        {
+          "purpose":"Improving the Wikimedia Sites and making your user experience safer and better.",
+          "description":"To use your public contributions, either aggregated with the public contributions of others or individually, to create new features or data-related products for you or to learn more about how the Wikimedia Sites are used.\nTo fight spam, identity theft, malware and other kinds of abuse.\nTo optimize mobile and other applications. To test features to see what works, understand how users interact with the Wikimedia Sites, track and study use of various features, gain understanding about the demographics of the different Wikimedia Sites and analyze trends.\n\nWe engage in these activities to further our legitimate interest and/or to comply with our legal obligations. "
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": "GDPR-6-1-a",
+          "description": "Put simply, we use this information to enhance your experience with Wikimedia Sites. For example, we use this information to administer the sites, provide greater security, and fight vandalism; optimize mobile applications, customize content and set language preferences, test features to see what works, and improve performance; understand how users interact with the Wikimedia Sites, track and study use of various features, gain understanding about the demographics of the different Wikimedia Sites, and analyze trends. "
+        },
+        {
+          "reference": "GDPR-6-1-f",
+          "description": "We and our service providers use your information for the legitimate purpose of pursuing our charitable mission"
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": "We and our service providers use your information for the legitimate purpose of pursuing our charitable mission",
+          "exists": true
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": "local chapter"
+        },
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": "based on a judicial or administrative order"
+        },
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": "Service Providers"
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [
+            "we keep it for the shortest possible time that is consistent with the maintenance, understanding, and improvement of the Wikimedia Sites",
+            "and our obligations under applicable law"
+          ],
+          "legalBasisConditional": [
+          ],
+          "temporal": [
+            {
+              "description":"In most instances, Personal Information is deleted, aggregated or de-identified after 90 days",
+              "ttl":"P-90-d"
+            }
+          ],
+          "aggregationFunction": "max"
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": "However, if you choose not to provide an email address, we can't help you recover your password. ",
+        "legalRequirement": false,
+        "contractualRegulation": false,
+        "obligationToProvide": false
+      }
+    },
+    {
+      "_id": "2a020b39-4e8f-47a5-85de-ef38fd474782",
+      "category": "demographic information",
+      "purposes": [
+        {
+          "purpose": "understanding",
+          "description": "gain a better understanding of the demographics of our users"     
+        },
+        {
+          "purpose": "localization",
+          "description": "localize our services"     
+        },
+        {
+          "purpose": "improve our services",
+          "description": "learn how we can improve our services"     
+        },
+        {
+              "purpose":"Operating the Wikimedia Sites, sharing your contributions and administering our Services.",
+              "description":"To help you share your knowledge with the world and add new features to our Services. \nTo arrange access to your account and provide you with related service. \nTo send administrative information to you, such as changes to our policies.\nTo allow you to send messages to another person if you choose to do so. Direct communications between users (such as messages sent through the Email this user feature), to the extent such communications are nonpublic and stored in or in transit through Wikimedia Foundation systems, are kept confidential by us, except as provided in this Policy.\nWe engage in these activities to manage our relationship with you, because we have a legitimate interest and/or to comply with our legal obligations. "
+            },
+            {
+              "purpose":"Providing customized Services.",
+              "description":"To provide to you custom content, notices and settings and to enhance your experience with the Wikimedia Sites. \nWe will customize the Services, in some instances, with your consent; or in keeping with our legitimate interest. "
+            },
+            {
+              "purpose":"Sending emails with news updates and communications about items we believe may be of interest to you.",
+              "description":"To let you know about things that are happening with the Wikimedia Foundation, the Wikimedia Sites or the Wikimedia movement. \nTo alert you when there has been a change to an article that you have decided to follow.\n\nWe will send these types of emails to you only with your consent except as otherwise permitted by applicable law. We do not sell, rent, or use your email address to advertise third-party products or services to you. You can manage what kinds of notifications you receive and how often you receive them by going to your Notifications Preferences and User profile"
+            },
+            {
+              "purpose":"Sending optional surveys and requesting feedback.",
+              "description":"We will always tell you, at the time we give you an opportunity to share your thoughts, how we plan on using your answers and any Personal Information you provide. Your responses to our surveys and feedback requests are always optional. We will email these types of requests to you only with your consent except as otherwise permitted by applicable law. You can manage what kinds of notifications you receive and how often you receive them by going to your Notifications Preferences and User profile"
+            },
+            {
+              "purpose":"Improving the Wikimedia Sites and making your user experience safer and better.",
+              "description":"To use your public contributions, either aggregated with the public contributions of others or individually, to create new features or data-related products for you or to learn more about how the Wikimedia Sites are used.\nTo fight spam, identity theft, malware and other kinds of abuse.\nTo optimize mobile and other applications. To test features to see what works, understand how users interact with the Wikimedia Sites, track and study use of various features, gain understanding about the demographics of the different Wikimedia Sites and analyze trends.\n\nWe engage in these activities to further our legitimate interest and/or to comply with our legal obligations. "
+            }
+      ],
+      "legalBases": [
+        {
+          "reference": "GDPR-6-1-a",
+          "description": "Put simply, we use this information to enhance your experience with Wikimedia Sites. For example, we use this information to administer the sites, provide greater security, and fight vandalism; optimize mobile applications, customize content and set language preferences, test features to see what works, and improve performance; understand how users interact with the Wikimedia Sites, track and study use of various features, gain understanding about the demographics of the different Wikimedia Sites, and analyze trends. "
+        },
+        {
+          "reference": "GDPR-6-1-f",
+          "description": "We and our service providers use your information for the legitimate purpose of pursuing our charitable mission"
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": "We and our service providers use your information for the legitimate purpose of pursuing our charitable mission",
+          "exists": true
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": "local chapter"
+        },
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": "based on a judicial or administrative order"
+        },
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": "Service Providers"
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [
+            "we keep it for the shortest possible time that is consistent with the maintenance, understanding, and improvement of the Wikimedia Sites",
+            "and our obligations under applicable law"
+          ],
+          "legalBasisConditional": [
+          ],
+          "temporal": [
+            {
+              "description":"In most instances, Personal Information is deleted, aggregated or de-identified after 90 days",
+              "ttl":"P-90-d"
+            }
+          ],
+          "aggregationFunction": "max"
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": "You are not required to create an account to read or contribute to a Wikimedia Site, except under rare circumstances. However, if you contribute without signing in, your contribution will be publicly attributed to the IP address associated with your device.",
+        "legalRequirement": false,
+        "contractualRegulation": false,
+        "obligationToProvide": false
+      }
+    },
+    {
+          "_id": "51ccd2a2-45bc-4203-ad4d-c563c9688709",
+          "category": "Information We Receive Automatically",
+          "purposes": [
+            {
+              "purpose": "enhance your experience with Wikimedia Sites",
+              "description": "Put simply, we use this information to enhance your experience with Wikimedia Sites. For example, we use this information to administer the sites, provide greater security, and fight vandalism; optimize mobile applications, customize content and set language preferences, test features to see what works, and improve performance; understand how users interact with the Wikimedia Sites, track and study use of various features, gain understanding about the demographics of the different Wikimedia Sites, and analyze trends. "     
+            },
+            {
+              "purpose":"Operating the Wikimedia Sites, sharing your contributions and administering our Services.",
+              "description":"To help you share your knowledge with the world and add new features to our Services. \nTo arrange access to your account and provide you with related service. \nTo send administrative information to you, such as changes to our policies.\nTo allow you to send messages to another person if you choose to do so. Direct communications between users (such as messages sent through the Email this user feature), to the extent such communications are nonpublic and stored in or in transit through Wikimedia Foundation systems, are kept confidential by us, except as provided in this Policy.\nWe engage in these activities to manage our relationship with you, because we have a legitimate interest and/or to comply with our legal obligations. "
+            },
+            {
+              "purpose":"Providing customized Services.",
+              "description":"To provide to you custom content, notices and settings and to enhance your experience with the Wikimedia Sites. \nWe will customize the Services, in some instances, with your consent; or in keeping with our legitimate interest. "
+            },
+            {
+              "purpose":"Sending emails with news updates and communications about items we believe may be of interest to you.",
+              "description":"To let you know about things that are happening with the Wikimedia Foundation, the Wikimedia Sites or the Wikimedia movement. \nTo alert you when there has been a change to an article that you have decided to follow.\n\nWe will send these types of emails to you only with your consent except as otherwise permitted by applicable law. We do not sell, rent, or use your email address to advertise third-party products or services to you. You can manage what kinds of notifications you receive and how often you receive them by going to your Notifications Preferences and User profile"
+            },
+            {
+              "purpose":"Sending optional surveys and requesting feedback.",
+              "description":"We will always tell you, at the time we give you an opportunity to share your thoughts, how we plan on using your answers and any Personal Information you provide. Your responses to our surveys and feedback requests are always optional. We will email these types of requests to you only with your consent except as otherwise permitted by applicable law. You can manage what kinds of notifications you receive and how often you receive them by going to your Notifications Preferences and User profile"
+            },
+            {
+              "purpose":"Improving the Wikimedia Sites and making your user experience safer and better.",
+              "description":"To use your public contributions, either aggregated with the public contributions of others or individually, to create new features or data-related products for you or to learn more about how the Wikimedia Sites are used.\nTo fight spam, identity theft, malware and other kinds of abuse.\nTo optimize mobile and other applications. To test features to see what works, understand how users interact with the Wikimedia Sites, track and study use of various features, gain understanding about the demographics of the different Wikimedia Sites and analyze trends.\n\nWe engage in these activities to further our legitimate interest and/or to comply with our legal obligations. "
+            }
+          ],
+          "legalBases": [
+            {
+              "reference": "GDPR-6-1-a",
+              "description": "Put simply, we use this information to enhance your experience with Wikimedia Sites. For example, we use this information to administer the sites, provide greater security, and fight vandalism; optimize mobile applications, customize content and set language preferences, test features to see what works, and improve performance; understand how users interact with the Wikimedia Sites, track and study use of various features, gain understanding about the demographics of the different Wikimedia Sites, and analyze trends. "
+            },
+            {
+              "reference": "GDPR-6-1-f",
+              "description": "We and our service providers use your information for the legitimate purpose of pursuing our charitable mission"
+            }
+          ],
+          "legitimateInterests": [
+            {
+              "reasoning": "We and our service providers use your information for the legitimate purpose of pursuing our charitable mission",
+              "exists": true
+            }
+          ],
+          "recipients": [
+            {
+              "name": "",
+              "country": "",
+              "division": [],
+              "address": [],
+              "representative": [],
+              "category": ""
+            }
+          ],
+      "storage": [
+        {
+          "purposeConditional": [
+            "we keep it for the shortest possible time that is consistent with the maintenance, understanding, and improvement of the Wikimedia Sites",
+            "and our obligations under applicable law"
+          ],
+          "legalBasisConditional": [
+          ],
+          "temporal": [
+            {
+              "description":"In most instances, Personal Information is deleted, aggregated or de-identified after 90 days",
+              "ttl":"P-90-d"
+            }
+          ],
+          "aggregationFunction": "max"
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": "Providing such information is always completely optional. If you don't want to, you don't have to—it's as simple as that. ",
+        "legalRequirement": false,
+        "contractualRegulation": false,
+        "obligationToProvide": false
+      },
+      "subcategories":[
+        "gender",
+        "age"
+      ]
+    },
+    {
+      "_id": "d1d9bf29-15e6-42b1-8afb-083a78ef7d82",
+      "category": "Location Information",
+      "purposes": [
+        {
+          "purpose": "show you more relevant content",
+          "description": "If you consent, we can use GPS (and other technologies commonly used to determine location) to show you more relevant content."     
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": "GDPR-6-1-a",
+          "description": "Put simply, we use this information to enhance your experience with Wikimedia Sites. For example, we use this information to administer the sites, provide greater security, and fight vandalism; optimize mobile applications, customize content and set language preferences, test features to see what works, and improve performance; understand how users interact with the Wikimedia Sites, track and study use of various features, gain understanding about the demographics of the different Wikimedia Sites, and analyze trends. "
+        },
+        {
+          "reference": "GDPR-6-1-f",
+          "description": "We and our service providers use your information for the legitimate purpose of pursuing our charitable mission"
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": "We and our service providers use your information for the legitimate purpose of pursuing our charitable mission",
+          "exists": true
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": "local chapter"
+        },
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": "based on a judicial or administrative order"
+        },
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": "Service Providers"
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [
+            "we keep it for the shortest possible time that is consistent with the maintenance, understanding, and improvement of the Wikimedia Sites",
+            "and our obligations under applicable law"
+          ],
+          "legalBasisConditional": [
+          ],
+          "temporal": [
+            {
+              "description":"In most instances, Personal Information is deleted, aggregated or de-identified after 90 days",
+              "ttl":"P-90-d"
+            }
+          ],
+          "aggregationFunction": "max"
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": false,
+        "contractualRegulation": false,
+        "obligationToProvide": false
+      }
+    }
+  ],
+  "thirdCountryTransfers": [
+    {
+      "country": "US",
+      "adequacyDecision": {
+        "available": null,
+        "description": null
+      },
+      "appropriateGuarantees": {
+        "available": null,
+        "description": null
+      },
+      "presenceOfEnforceableRightsAndEffectiveRemedies": {
+        "available": null,
+        "description": null
+      },
+      "standardDataProtectionClause": {
+        "available": null,
+        "description": null
+      }
+    }
+  ],
+  "accessAndDataPortability": {
+    "available": true,
+    "description": "If you would like to request to access or receive a copy of your Personal Information for purposes of transmitting it to another organization, you may Contact Us. ",
+    "url": "https://foundation.wikimedia.org/wiki/Privacy_policy#important",
+    "email": null,
+    "identificationEvidences": [],
+    "administrativeFee": {
+      "amount": null,
+      "currency": null
+    },
+    "dataFormats": []
+  },
+  "sources": [
+    {
+      "_id": null,
+      "dataCategory": null,
+      "sources": [
+        {
+          "description": [],
+          "url": [],
+          "publiclyAvailable": []
+        }
+      ]
+    }
+  ],
+  "rightToInformation": {
+    "available": false,
+    "description": "",
+    "url": null,
+    "email": null,
+    "identificationEvidences": []
+  },
+  "rightToRectificationOrDeletion": {
+    "available": true,
+    "description": "For information about how you may request removal of your Personal Information, or other rights you may have with respect to your Personal Information, see our FAQ",
+    "url": "https://foundation.wikimedia.org/wiki/Privacy_policy/FAQ#anonymize",
+    "email": null,
+    "identificationEvidences": []
+  },
+  "rightToDataPortability": {
+    "available": true,
+    "description": "If you would like to request to access, update or restrict/object to the processing of Personal Information, or receive a copy of your Personal Information for purposes of transmitting it to another organization, you may Contact Us. ",
+    "url": "https://foundation.wikimedia.org/wiki/Privacy_policy#important",
+    "email": null,
+    "identificationEvidences": []
+  },
+  "rightToWithdrawConsent": {
+    "available": true,
+    "description": "",
+    "url": null,
+    "email": null,
+    "identificationEvidences": []
+  },
+  "rightToComplain": {
+    "available": false,
+    "description": "",
+    "url": null,
+    "email": null,
+    "identificationEvidences": [],
+    "supervisoryAuthority": {
+      "name": "",
+      "address": "",
+      "country": "",
+      "email": null,
+      "phone": null
+    }
+  },
+  "automatedDecisionMaking": {
+    "logicInvolved": "",
+    "inUse": false,
+    "scopeAndIntendedEffects": null
+  },
+  "changesOfPurpose": [
+    {
+      "description": "",
+      "affectedDataCategories": [],
+      "plannedDateOfChange": null,
+      "urlOfNewVersion": null
+    }
+  ]
+}

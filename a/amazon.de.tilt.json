@@ -185,11 +185,11 @@
     "email": null,
     "identificationEvidences": [],
     "supervisoryAuthority": {
-      "name": null,
-      "address": null,
-      "country": null,
+      "name": "Commission Nationale pour la Protection des Donn\u00e9es",
+      "address": "15, Boulevard du Jazz, L-4370 Belvaux",
+      "country": "LU",
       "email": null,
-      "phone": null
+      "phone": "+352 2610601"
     }
   },
   "automatedDecisionMaking": {
