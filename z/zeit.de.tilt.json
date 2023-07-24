@@ -1,0 +1,261 @@
+{
+  "meta": {
+    "_id": "",
+    "name": "ZEIT Online",
+    "created": "2023-01-19T13:35:20.417011",
+    "modified": "2023-01-19T13:35:20.417011",
+    "version": 1,
+    "language": "de",
+    "status": "active",
+    "url": "https://datenschutz.zeit.de/zon",
+    "_hash": ""
+  },
+  "controller": {
+    "name": "ZEIT Online GmbH",
+    "country": "DE",
+    "address": "ZEIT Online GmbH, Buceriusstraße - Eingang Speersort 1, 20095 Hamburg",
+    "division": null,
+    "representative": {
+      "name": "Dr. Rainer Esser, Christian Röpke, Enrique Tarragona",
+      "email": "email@zeit.de",
+      "phone": "040/3280-0"
+    }
+  },
+  "dataProtectionOfficer": {
+    "email": "datenschutz@zeit.de",
+    "phone": null,
+    "country": "DE",
+    "name": null,
+    "address": null
+  },
+  "dataDisclosed": [
+    {
+      "_id": "",
+      "category": "Cookies, Geräte-IDs und ähnliche Tracking-Technologien",
+      "purposes": [
+        {
+          "purpose": "Werbetracking",
+          "description": "Nur wenn Sie sich aktiv für den kostenlosen Zugang entschieden haben, speichern und nutzen wir Cookies, Geräte-IDs und ähnliche Tracking-Technologien auf Endgeräten, um die Erhebung von Nutzungsdaten und deren pseudonymisierte Verarbeitung zu Nutzungsprofilen zum Zwecke einer nutzungsbasierten Werbeausspielung zu ermöglichen ("Werbetracking")."
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": "GDPR-6-1-a",
+          "description": "Dies geschieht, weil wir in diesem Fall unser Angebot mit Ihrer Einwilligung durch weitere, mittels Werbetracking optimierte Werbung finanzieren. Rechtsgrundlage der Datenverarbeitung ist dann Art. 6 Abs. 1 lit. a DSGVO"
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "exists": false
+        }
+      ],
+      "recipients": [
+        {
+          "name": "Google LLC",
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": "Cookies"
+        },
+        {
+            "name": "Kilkaya AS",
+            "country": [],
+            "division": [],
+            "address": [],
+            "representative": [],
+            "category": "Cookies"
+          },
+          {
+            "name": "Sourcepoint Technologies, Inc.",
+            "country": [],
+            "division": [],
+            "address": [],
+            "representative": [],
+            "category": "Cookies"
+          },
+          {
+            "name": "CeleraOne GmbH",
+            "country": [],
+            "division": [],
+            "address": [],
+            "representative": [],
+            "category": "Cookies"
+          },
+          {
+            "name": "IVW/INFOnline",
+            "country": [],
+            "division": [],
+            "address": [],
+            "representative": [],
+            "category": "Cookies"
+          },
+          {
+            "name": "MAPP/Webtrekk",
+            "country": [],
+            "division": [],
+            "address": [],
+            "representative": [],
+            "category": "Cookies"
+          }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": ["P16Y", "P1M", "P3M", "P10M", "P6M", "P2M", "P5Y", "P3D"],
+          "aggregationFunction": [],
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": "Die Nutzung unserer Internetseiten ist regelmäßig ohne Eingabe von personenbezogenen Daten möglich. Lediglich in einigen wenigen, im Folgenden einzeln aufgelisteten Fällen, ist eine freiwillige Angabe von personenbezogenen Daten jedoch notwendig, da wir Ihnen unsere Dienste sonst nicht zur Verfügung stellen können. ",
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": false
+      }
+    },
+    {
+      "_id": "",
+      "category": "Vorname, Name, Adresse, E-Mail",
+      "purposes": [
+        {
+          "purpose": "Pflichten aus dem Abonnement zu erfüllen",
+          "description": "Wir verarbeiten Ihre Daten, um Ihnen Ihr Abonnement und den dazugehörigen Newsletter (z.B. ZEIT-Brief, Freunde der ZEIT-Newsletter, ZEIT Digital Produkt-Newsletter, Z+-Newsletter) zuzusenden und unsere Pflichten aus dem Abonnement zu erfüllen. "
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": "GDPR-6-1-b",
+          "description": "Die genannten Daten benötigen wir, um unsere Verpflichtungen aus dem geschlossenen Abonnementvertrag zu erfüllen, Art. 6 Abs. 1 lit. b) DSGVO."
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": "An der diesbezüglichen Speicherung Ihrer Daten haben wir ein berechtigtes Interesse, welches sich bereits aus Art. 17 Abs. 3 lit. e) DSGVO ergibt.",
+          "exists": true
+        }
+      ],
+      "recipients": [
+        {
+          "name": "DPV Deutscher Pressevertrieb GmbH",
+          "country": "DE",
+          "division": [],
+          "address": "DPV Deutscher Pressevertrieb GmbH, Am Baumwall 11, 20459 Hamburg",
+          "representative": [],
+          "category": "Abwicklung des Abonnements"
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": ["Wir speichern Ihre Daten zunächst bis zum Ende Ihres Abonnements "],
+          "legalBasisConditional": ["bis zum Ablauf der gesetzlichen Verjährungsfrist nach § 257 Abs. 4 HGB, § 147 Abs. 3 AO. "],
+          "temporal": [],
+          "aggregationFunction": "max"
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    }
+  ],
+  "thirdCountryTransfers": [
+    {
+      "country": [],
+      "adequacyDecision": {
+        "available": true,
+        "description": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32010D0087"
+      },
+      "appropriateGuarantees": [],
+      "presenceOfEnforceableRightsAndEffectiveRemedies": [],
+      "standardDataProtectionClause": []
+    },
+    {
+        "country": "GB",
+        "adequacyDecision": {
+            "available": true,
+            "description": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32010D0087"
+        },
+        "appropriateGuarantees": [],
+        "presenceOfEnforceableRightsAndEffectiveRemedies": [],
+        "standardDataProtectionClause": []
+      }
+  ],
+  "accessAndDataPortability": {
+    "available": null,
+    "description": null,
+    "url": null,
+    "email": null,
+    "identificationEvidences": [],
+    "administrativeFee": {
+      "amount": null,
+      "currency": null
+    },
+    "dataFormats": []
+  },
+  "sources": [
+    {
+      "_id": [],
+      "dataCategory": [],
+      "sources": []
+    }
+  ],
+  "rightToInformation": {
+    "available": true,
+    "description": "",
+    "url": null,
+    "email": null,
+    "identificationEvidences": []
+  },
+  "rightToRectificationOrDeletion": {
+    "available": true,
+    "description": "",
+    "url": null,
+    "email": null,
+    "identificationEvidences": []
+  },
+  "rightToDataPortability": {
+    "available": true,
+    "description": "",
+    "url": null,
+    "email": null,
+    "identificationEvidences": []
+  },
+  "rightToWithdrawConsent": {
+    "available": true,
+    "description": "",
+    "url": null,
+    "email": null,
+    "identificationEvidences": []
+  },
+  "rightToComplain": {
+    "available": true,
+    "description": "",
+    "url": null,
+    "email": null,
+    "identificationEvidences": [],
+    "supervisoryAuthority": {
+      "name": null,
+      "address": null,
+      "country": null,
+      "email": null,
+      "phone": null
+    }
+  },
+  "automatedDecisionMaking": {
+    "logicInvolved": null,
+    "inUse": null,
+    "scopeAndIntendedEffects": null
+  },
+  "changesOfPurpose": [
+    {
+      "description": [],
+      "affectedDataCategories": [],
+      "plannedDateOfChange": [],
+      "urlOfNewVersion": []
+    }
+  ]
+}

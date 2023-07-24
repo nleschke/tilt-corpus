@@ -1,0 +1,254 @@
+{
+  "meta": {
+    "version": 1,
+    "language": "de",
+    "status": "active",
+    "_id": "0b2a232e-85a1-413c-8339-d19c7648deab",
+    "name": "Bundesministerium der Justiz und für Verbraucherschutz",
+    "created": "2023-07-24T12:00:00+0000",
+    "modified": "2023-07-24T12:00:00+0000",
+    "url": "https://www.bmuv.de/datenschutz",
+    "_hash": ""
+  },
+  "controller": {
+    "country": "DE",
+    "representative": {
+      "name": "",
+      "email": "",
+      "phone": ""
+    },
+    "name": "Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz",
+    "address": "Stresemannstraße 128 - 130, 10117 Berlin"
+  },
+  "dataProtectionOfficer": {
+    "name": "Beauftragte für den Datenschutz im BMUV",
+    "address": "Stresemannstraße 128 - 130, 10117 Berlin",
+    "country": "DE",
+    "phone": "+4930183050",
+    "other": "https://www.bmuv.de/service/buergerservice/kontaktformular-fuer-ihre-fragen"
+  },
+  "dataDisclosed": [
+    {
+      "_id": "7f7cc950-86ae-4264-b424-6826d6ce425d",
+      "category": "Besuch der Internetseite (Serverlogs)",
+      "subcategories": ["Name der abgerufenen Datei","Datum und Uhrzeit des Abrufs","übertragene Datenmenge","Meldung, ob der Abruf erfolgreich war","IP-Adresse des Benutzers beziehungsweise des Anbieters","Internetadresse der vorhergehenden Seite (Referrer)","Angaben zum Programm, das die Daten abruft (User-Agent)"],
+      "storage": [
+        {
+            "temporal": {
+                "description": "Dabei werden für maximal 24 Stunden folgende Daten gespeichert",
+                "ttl":"24h"
+            },
+            "aggregationFunction":"max"
+        }
+      ],
+      "purposes": [
+        {
+          "purpose": "Datensicherheit",
+          "description":"Jeder Besuch auf unserer Internetseite wird in einer Protokolldatei erfasst, um die Datensicherheit zu gewährleisten."
+        }
+      ],
+      "legalBases": [
+        {
+            "reference":"GDPR-6-1-c",
+            "description":"Im Übrigen verarbeiten wir personenbezogene Daten nur sofern wir aufgrund einer Rechtsvorschrift dazu verpflichtet sind (laut Artikel 6 Absatz 1 Buchstabe c) der DSGVO) "
+        },
+        {
+            "reference":"GDPR-6-1-e",
+            "description":"Im Übrigen verarbeiten wir personenbezogene Daten nur sofern die Verarbeitung zur Wahrnehmung einer Aufgabe des Ministeriums erforderlich ist, die im öffentlichen Interesse liegt oder in Ausübung öffentlicher Gewalt erfolgt (laut Artikel 6 Absatz 1 Buchstabe e) der DSGVO in Verbindung mit Paragraf 3 des Bundesdatenschutzgesetzes)",
+        }
+      ],
+      "legitimateInterests": [],
+      "recipients": [],
+      "nonDisclosure": {
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null,
+        "consequences": ""
+      }
+    },
+    {
+      "_id": "10763001-d12d-4566-b2d1-ef1c0bae310a",
+      "category": "personenbezogenen Daten",
+      "subcategories": ["E-Mail-Adresse","Name","Anschrift"],
+      "storage": [
+        {
+            "temporal": {
+                "description": "Ist ein solches Informationsangebot abschlossen, durch uns beendet oder durch Sie abbestellt, werden die personenbezogenen Daten nach maximal sechs Wochen unwiderruflich gelöscht. ",
+                "ttl":"P6W"
+            },
+            "purposeConditional":["Ist eine Speicherung Ihrer persönlichen Daten für den in Anspruch genommenen Informationsdienst notwendig, werden Ihre Daten nur solange gespeichert, wie es zur Erfüllung des Angebotes bzw. der Aufgaben des Ministeriums, für die die Daten erhoben wurden, erforderlich ist. "],
+            "aggregationFunction":"max"
+        }
+      ],
+      "purposes": [
+        {
+          "purpose": "Informationsangebote",
+          "description":"Innerhalb der Internetseite besteht für einige Informationsangebote die Möglichkeit zur Eingabe personenbezogener Daten. Wenn Sie zum Beispiel unseren Newsletter oder andere Mailingdienste bestellen, müssen Sie Ihre E-Mail-Adresse angeben. Melden Sie sich bei einer Veranstaltung an oder bestellen Sie Informationsmaterial, benötigen wir auch Ihren Namen und ihre Anschrift."
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": "GDPR-6-1-a",
+          "description": "Sofern wir auf dieser Seite personenbezogene Daten von Ihnen erheben, erfolgt dies ausschließlich mit Ihrer jederzeit widerruflichen Einwilligung (zum Beispiel beim Newsletter-Versand nach Artikel 6 Absatz 1 Buchstabe a) der DSGVO) oder zur Durchführung eines Bestellvorgangs (zum Beispiel bei Publikationen nach Artikel 6 Absatz 1 Buchstabe b) der DSGVO). "
+        },
+        {
+            "reference": "GDPR-6-1-b",
+            "description":"Sofern wir auf dieser Seite personenbezogene Daten von Ihnen erheben, erfolgt dies ausschließlich mit Ihrer jederzeit widerruflichen Einwilligung (zum Beispiel beim Newsletter-Versand nach Artikel 6 Absatz 1 Buchstabe a) der DSGVO) oder zur Durchführung eines Bestellvorgangs (zum Beispiel bei Publikationen nach Artikel 6 Absatz 1 Buchstabe b) der DSGVO). "
+        },
+        {
+            "reference":"GDPR-6-1-c",
+            "description":"Im Übrigen verarbeiten wir personenbezogene Daten nur sofern wir aufgrund einer Rechtsvorschrift dazu verpflichtet sind (laut Artikel 6 Absatz 1 Buchstabe c) der DSGVO) "
+        },
+        {
+            "reference":"GDPR-6-1-e",
+            "description":"Im Übrigen verarbeiten wir personenbezogene Daten nur sofern die Verarbeitung zur Wahrnehmung einer Aufgabe des Ministeriums erforderlich ist, die im öffentlichen Interesse liegt oder in Ausübung öffentlicher Gewalt erfolgt (laut Artikel 6 Absatz 1 Buchstabe e) der DSGVO in Verbindung mit Paragraf 3 des Bundesdatenschutzgesetzes)",
+        }
+      ],
+      "legitimateInterests": [],
+      "recipients": [
+        {
+            "name":"familie redlich digital GmbH",
+            "country":"DE",
+            "category":"Hauptdienstleister"
+        }
+      ],
+      "nonDisclosure": {
+        "legalRequirement": false,
+        "contractualRegulation": false,
+        "obligationToProvide": false,
+        "consequences": ""
+      }
+    },
+    {
+        "_id": "c8893a63-9245-42fd-bfb3-f951a0b652cb",
+        "category": "Kommunikation",
+        "subcategories": ["Nachrichten","E-Mail-Adresse", "Browserversion", "Betriebssystem"],
+        "storage": [
+          {
+              "temporal": {
+                  "description": "Wenn Sie E-Mails aus Formularen versenden, speichert das System zusätzlich zu den eingegebenen Daten Informationen zur Browserversion und dem genutzten Betriebssystem. Es werden dabei keine IP Adressen gespeichert. Diese Daten werden nicht verarbeitet, sie dienen lediglich dazu, Fehler in Einzelfällen zu beheben.",
+                  "ttl":"P28D"
+              },
+              "purposeConditional":[],
+              "aggregationFunction":"max"
+          }
+        ],
+        "purposes": [
+          {
+            "purpose": "Korrespondenz",
+            "description":"Wenn Sie uns eine Nachricht über unser Kontaktformular oder direkt per E-Mail senden, so werden die von Ihnen angegebenen Daten für die Korrespondenz mit Ihnen verwendet. "
+          }
+        ],
+        "legalBases": [
+            {
+                "reference":"GDPR-6-1-c",
+                "description":"Im Übrigen verarbeiten wir personenbezogene Daten nur sofern wir aufgrund einer Rechtsvorschrift dazu verpflichtet sind (laut Artikel 6 Absatz 1 Buchstabe c) der DSGVO) "
+            },
+            {
+                "reference":"GDPR-6-1-e",
+                "description":"Im Übrigen verarbeiten wir personenbezogene Daten nur sofern die Verarbeitung zur Wahrnehmung einer Aufgabe des Ministeriums erforderlich ist, die im öffentlichen Interesse liegt oder in Ausübung öffentlicher Gewalt erfolgt (laut Artikel 6 Absatz 1 Buchstabe e) der DSGVO in Verbindung mit Paragraf 3 des Bundesdatenschutzgesetzes)",
+            }
+        ],
+        "legitimateInterests": [],
+        "recipients": [],
+        "nonDisclosure": {
+          "legalRequirement": null,
+          "contractualRegulation": null,
+          "obligationToProvide": null,
+          "consequences": ""
+        }
+      },
+      {
+        "_id": "f16b2d50-9529-438a-93f5-08dd3993dd2e",
+        "category": "Fotoaufnahmen",
+        "storage": [
+          {
+              "temporal": {
+                  "description": "",
+                  "ttl":""
+              },
+              "purposeConditional":[],
+              "aggregationFunction":"max"
+          }
+        ],
+        "purposes": [
+          {
+            "purpose": "Presse- und Öffentlichkeitsarbeit",
+            "description":"Im Rahmen unserer Presse- und Öffentlichkeitsarbeit werden bei Veranstaltungen und Terminen Fotos aufgenommen, auf denen Sie gegebenenfalls erkennbar zu sehen sind. "
+          }
+        ],
+        "legalBases": [
+            {
+                "reference":"GDPR-6-1-c",
+                "description":"Im Übrigen verarbeiten wir personenbezogene Daten nur sofern wir aufgrund einer Rechtsvorschrift dazu verpflichtet sind (laut Artikel 6 Absatz 1 Buchstabe c) der DSGVO) "
+            },
+            {
+                "reference":"GDPR-6-1-e",
+                "description":"Im Übrigen verarbeiten wir personenbezogene Daten nur sofern die Verarbeitung zur Wahrnehmung einer Aufgabe des Ministeriums erforderlich ist, die im öffentlichen Interesse liegt oder in Ausübung öffentlicher Gewalt erfolgt (laut Artikel 6 Absatz 1 Buchstabe e) der DSGVO in Verbindung mit Paragraf 3 des Bundesdatenschutzgesetzes)",
+            }
+        ],
+        "legitimateInterests": [],
+        "recipients": [],
+        "nonDisclosure": {
+          "legalRequirement": false,
+          "contractualRegulation": false,
+          "obligationToProvide": false,
+          "consequences": "Der Aufnahme und/oder einer Veröffentlichung können Sie widersprechen. Bitte nutzen Sie für Ihren Widerspruch die oben genannten Kontaktdaten."
+        }
+      }
+  ],
+  "thirdCountryTransfers": [],
+  "sources": [],
+  "changesOfPurpose": [],
+  "accessAndDataPortability": {
+    "available": true,
+    "administrativeFee": {
+      "amount": 0,
+      "currency": "EUR"
+    },
+    "dataFormats": [],
+    "description": "Mit dem Recht auf Auskunft erhalten Sie eine umfassende Einsicht in die Sie betreffenden Daten und einige andere wichtige Kriterien wie beispielsweise die Verarbeitungszwecke oder die Dauer der Speicherung. Es gelten die in Paragraf 34 BDSG geregelten Ausnahmen von diesem Recht. ",
+    "url": "https://www.bmuv.de/service/buergerservice/kontaktformular-fuer-ihre-fragen",
+    "email": ""
+  },
+  "rightToInformation": {
+    "available": true,
+    "description": "",
+    "url": "https://www.bmuv.de/service/buergerservice/kontaktformular-fuer-ihre-fragen",
+    "email": ""
+  },
+  "rightToRectificationOrDeletion": {
+    "available": true,
+    "url": "https://www.bmuv.de/service/buergerservice/kontaktformular-fuer-ihre-fragen",
+    "email": "",
+    "description": "Das Recht auf Berichtigung beinhaltet die Möglichkeit für Sie, unrichtige Sie betreffende personenbezogene Daten ändern zu lassen. Das Recht auf Löschung beinhaltet die Möglichkeit für Sie Daten löschen zu lassen. Dies ist allerdings nur dann möglich, wenn die Sie betreffenden personenbezogenen Daten nicht mehr notwendig sind, rechtswidrig verarbeitet werden oder eine diesbezügliche Einwilligung widerrufen wurde. Es gelten die in Paragraf 35 BDSG geregelten Ausnahmen von diesem Recht."
+  },
+  "rightToDataPortability": {
+    "available": true,
+    "url": "https://www.bmuv.de/service/buergerservice/kontaktformular-fuer-ihre-fragen",
+    "email": "",
+    "description": "Das Recht auf Datenübertragbarkeit beinhaltet die Möglichkeit für den Betroffenen, die ihn angehenden personenbezogenen Daten in einem gängigen, maschinenlesbaren Format vom Verantwortlichen zu erhalten, um sie ggf. an einen anderen Verantwortlichen weiterleiten zu lassen. Gemäß Artikel 20 Abs. 3 Satz 2 DS-GVO steht dieses Recht aber dann nicht zur Verfügung, wenn die Datenverarbeitung der Wahrnehmung öffentlicher Aufgaben dient. Dies ist beim BMJV nur dann nicht der Fall, wenn die Verarbeitung personenbezogener Daten zu fiskalischen Zwecken erfolgt."
+  },
+  "rightToWithdrawConsent": {
+    "available": true,
+    "url": "https://www.bmuv.de/service/buergerservice/kontaktformular-fuer-ihre-fragen",
+    "email": "",
+    "description": "Sie haben jederzeit das Recht, eine erteilte Einwilligung mit Wirkung für die Zukunft zu widerrufen. Eine entsprechende Widerrufsmöglichkeit finden Sie jeweils bei dem entsprechenden Internetangebot für den Ihre Einwilligung eingeholt wurde."
+  },
+  "rightToComplain": {
+    "available": true,
+    "supervisoryAuthority": {
+      "name": "Der Bundesbeauftragte für den Datenschutz und die Informationsfreiheit",
+      "address": "Husarenstraße 30, 53117 Bonn",
+      "country": "DE",
+      "email": "poststelle@bfdi.bund.de",
+      "phone": "+492289977990"
+    },
+    "url": "https://www.bmuv.de/service/buergerservice/kontaktformular-fuer-ihre-fragen",
+    "email": "",
+    "description": ""
+  },
+  "automatedDecisionMaking": {
+    "inUse": false
+  }
+}
