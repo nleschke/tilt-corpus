@@ -1,0 +1,1023 @@
+{
+    "meta": {
+      "_id": "c117fb54-d16e-450d-9559-5ff02b26f70c",
+      "name": "focus",
+      "created": "2023-08-16T12:21:52.177154",
+      "modified": "2023-08-16T12:21:52.177179",
+      "version": 1,
+      "language": "de",
+      "status": "active",
+      "url": "https://www.focus.de/intern/datenschutzerklaerung-datenschutzerklaerung-fuer-die-webseite-www-focus-de_id_6846331.html",
+      "_hash": null
+    },
+    "controller": {
+      "name": "BurdaForward GmbH",
+      "country": "DE",
+      "address": "BurdaForward GmbH, St.-Martin-Straße 66, 81541 München",
+      "division": null,
+      "representative": {
+        "name": null,
+        "email": "info@faz.net",
+        "phone": null
+      }
+    },
+    "dataProtectionOfficer": {
+      "email": "focusonline@datenschutzanfrage.de",
+      "url":"https://datenschutzanfrage.de/?source=focusonline",
+      "phone": "+49 89 9250 4500",
+      "country": "DE",
+      "name": null,
+      "address": "BurdaForward GmbH, Abteilung Datenschutz, St.-Martin-Straße 66, 81541 München"
+    },
+    "dataDisclosed": [
+       {
+        "_id": "60a76318-f061-4c2c-a8cb-e5eb526e5670",
+        "category": "Accountdaten",
+        "purposes": [
+          {
+              "purpose":"Bereitstellung des geschützten Login-Bereichs",
+              "description":"Die Verarbeitung Ihrer personenbezogenen Daten erfolgt zum Zweck der Bereitstellung des geschützten Login-Bereichs sowie zum Zweck der Anmeldung, Organisation und Abwicklung Ihrer jeweiligen Anmeldung. "
+          },
+          {
+              "purpose":"Teilnahme im Rahmen der FOCUS Online Community",
+              "description":"Identifizierung; Kontaktaufnahme; Prüfung der Zugangsberechtigung "
+          },
+          {
+            "purpose": "Erfüllung des Grundsatzes der Richtigkeit nach Art. 5 Abs. 1 Buchst d) DSGVO",
+            "description": "Die Datenerhebungen erfolgen zum Zweck der Erfüllung des Grundsatzes der Richtigkeit nach Art. 5 Abs. 1 Buchst. d) DSGVO"
+          },
+          {
+              "purpose":"Vertragsdurchführung",
+              "description":"Zweck der Vertragsdurchführung gemäß Art. 6 Abs. 1 Buchst. b) DSGVO"
+          },
+          {
+              "purpose":"Rechtsdurchsetzung und Inkasso",
+              "description":"Zweck der Rechtsdurchsetzung und zum Inkasso gemäß Art. 6 Abs. 1 Buchst. b) und f) DSGVO"
+          },
+          {
+              "purpose":"interessengerechten Direktwerbung ",
+              "description":"zum Zweck der möglichst interessengerechten Direktwerbung gemäß Art. 6 Abs. 1 Buchst. f) DSGVO in Verbindung mit ErwGr 46 DSGVO"
+          }
+        ],
+        "legalBases": [
+          {
+              "reference": "DSGVO-6-1-b",
+              "description": "Art. 6 Abs. 1 Satz 1 lit. b DSGVO: Mit Abschluss der Registrierung schließen Sie einen Vertrag über die Nutzung des geschützten Login-Bereichs innerhalb der BurdaForward-Webseiten. Details dazu können Sie unseren Nutzungsbedingungen entnehmen."
+            },
+            {
+              "reference": "DSGVO-6-1-a",
+              "description": "Art. 6 Abs. 1 Satz 1 Buchstabe a DSGVO: Soweit Sie sich zur Authentifizierung mittels „Social Login“ entscheiden, erfolgt die Übermittlung ihrer personenbezogenen Daten zwischen dem jeweiligen sozialen Netzwerk und uns auf Grundlage ihrer Einwilligung"
+            }
+        ],
+        "legitimateInterests": [
+          {
+            "exists": false,
+            "reasoning":null,
+          }
+        ],
+        "recipients": [
+          {
+            "name": null,
+            "country": null,
+            "division": null,
+            "address": null,
+            "representative": null,
+            "category": "Hostingdienstleister"
+          },
+          {
+              "name": null,
+              "country": null,
+              "division": null,
+              "address": null,
+              "representative": null,
+              "category": "staatliche Behörden"
+            },
+            {
+              "name": "Meta Platforms Ireland Limited",
+              "country": "IE",
+              "division": null,
+              "address": " Meta Platforms Ireland Limited, Hanover Reach, 5-7 Hanover Quay, Dublin 2, Ireland",
+              "representative": null,
+              "category": "Social Media"
+            },
+            {
+              "name": "Apple Inc.",
+              "country": "US",
+              "division": null,
+              "address": "Apple Inc., Infinite Loop, Cupertino, CA 95014, USA",
+              "representative": null,
+              "category": null
+            },
+            {
+              "name": "Google Ireland Ltd",
+              "country": "US",
+              "division": null,
+              "address": "Google Ireland Ltd, Gordon House, Barrow Street, Dublin 4, Ireland",
+              "representative": null,
+              "category": null
+            }
+        ],
+        "storage": [
+          {
+            "purposeConditional":"Personenbezogene Daten werden gelöscht, sobald deren weitergehende Verarbeitung nicht mehr für die jeweilige Zweckerreichung erforderlich ist und gesetzliche Aufbewahrungsfristen einer Löschung nicht entgegenstehen. Dies ist regelmäßig mit Löschung Ihres Nutzerkontos der Fall. ",
+            "aggregationFunction": "max"
+          },
+          {
+              "purposeConditional":"Dauer der Registrierung",
+              "aggregationFunction":"max"
+          }
+        ],
+        "nonDisclosure": {
+          "consequences": " Bei erforderlichen Daten hat die Nichtbereitstellung zur Folge, dass der betreffende Service nicht erbracht werden kann. Ansonsten hat die Nichtbereitstellung ggf. zur Folge, dass wir unsere Dienste nicht in gleicher Form und Qualität erbringen können.",
+          "legalRequirement": false,
+          "contractualRegulation": false,
+          "obligationToProvide": false
+        }
+      },
+      {
+          "_id": "bf95fa77-44a5-45a5-a0d3-6ca3d843f1b9",
+          "category": "Bestelldaten",
+          "purposes": [
+            {
+                "purpose":"Online-Shopping im FOCUS-Online PDF-Shop",
+                "description":"Bestellabwicklung; interessengerechte Angebote "
+            },
+            {
+                "purpose":"Vertragsdurchführung",
+                "description":"Zweck der Vertragsdurchführung gemäß Art. 6 Abs. 1 Buchst. b) DSGVO"
+            },
+            {
+                "purpose":"Rechtsdurchsetzung und Inkasso",
+                "description":"Zweck der Rechtsdurchsetzung und zum Inkasso gemäß Art. 6 Abs. 1 Buchst. b) und f) DSGVO"
+            },
+            {
+                "purpose":"interessengerechten Direktwerbung ",
+                "description":"zum Zweck der möglichst interessengerechten Direktwerbung gemäß Art. 6 Abs. 1 Buchst. f) DSGVO in Verbindung mit ErwGr 46 DSGVO"
+            }
+          ],
+          "legalBases": [
+            {
+                "reference": "DSGVO-6-1-b",
+                "description": "Art. 6 Abs. 1 Satz 1 lit. b DSGVO: Mit Abschluss der Registrierung schließen Sie einen Vertrag über die Nutzung des geschützten Login-Bereichs innerhalb der BurdaForward-Webseiten. Details dazu können Sie unseren Nutzungsbedingungen entnehmen."
+              },
+              {
+                "reference": "DSGVO-6-1-f",
+                "description": "Werbezwecke; Pflege der Kundenbeziehung; Vermarktung unserer Services"
+              }
+          ],
+          "legitimateInterests": [
+            {
+              "exists": true,
+              "reasoning":"Werbezwecke; Pflege der Kundenbeziehung; Vermarktung unserer Services",
+            }
+          ],
+          "recipients": [
+            {
+              "name": null,
+              "country": null,
+              "division": null,
+              "address": null,
+              "representative": null,
+              "category": "Hostingdienstleister"
+            },
+            {
+                "name": null,
+                "country": null,
+                "division": null,
+                "address": null,
+                "representative": null,
+                "category": "staatliche Behörden"
+              }
+          ],
+          "storage": [
+            {
+              "purposeConditional":"10 Jahre nach Abwicklung der letzten Bestellung ",
+              "aggregationFunction": "max"
+            }
+          ],
+          "nonDisclosure": {
+            "consequences": " Bei erforderlichen Daten hat die Nichtbereitstellung zur Folge, dass der betreffende Service nicht erbracht werden kann. Ansonsten hat die Nichtbereitstellung ggf. zur Folge, dass wir unsere Dienste nicht in gleicher Form und Qualität erbringen können.",
+            "legalRequirement": false,
+            "contractualRegulation": false,
+            "obligationToProvide": false
+          }
+        },
+        {
+          "_id": "0a41c47f-c105-4a39-9206-a4cfbb425d7f",
+          "category": "Zahlungsdaten",
+          "purposes": [
+            {
+                "purpose":"Online-Shopping im FOCUS-Online PDF-Shop",
+                "description":"Abwicklung von Zahlungen für den Service"
+            },
+            {
+                "purpose":"Vertragsdurchführung",
+                "description":"Zweck der Vertragsdurchführung gemäß Art. 6 Abs. 1 Buchst. b) DSGVO"
+            },
+            {
+                "purpose":"Rechtsdurchsetzung und Inkasso",
+                "description":"Zweck der Rechtsdurchsetzung und zum Inkasso gemäß Art. 6 Abs. 1 Buchst. b) und f) DSGVO"
+            }
+          ],
+          "legalBases": [
+            {
+                "reference": "DSGVO-6-1-b",
+                "description": "Art. 6 Abs. 1 Satz 1 lit. b DSGVO: Mit Abschluss der Registrierung schließen Sie einen Vertrag über die Nutzung des geschützten Login-Bereichs innerhalb der BurdaForward-Webseiten. Details dazu können Sie unseren Nutzungsbedingungen entnehmen."
+              }
+          ],
+          "legitimateInterests": [
+            {
+              "exists": false,
+              "reasoning":null
+            }
+          ],
+          "recipients": [
+            {
+              "name": null,
+              "country": null,
+              "division": null,
+              "address": null,
+              "representative": null,
+              "category": "Hostingdienstleister"
+            },
+            {
+                "name": null,
+                "country": null,
+                "division": null,
+                "address": null,
+                "representative": null,
+                "category": "staatliche Behörden"
+              },
+              {
+                  "name": null,
+                  "country": null,
+                  "division": null,
+                  "address": null,
+                  "representative": null,
+                  "category": "Zahlungsdienstleister"
+                }
+          ],
+          "storage": [
+            {
+              "purposeConditional":"10 Jahre nach Abwicklung der letzten Bestellung ",
+              "aggregationFunction": "max"
+            }
+          ],
+          "nonDisclosure": {
+            "consequences": " Bei erforderlichen Daten hat die Nichtbereitstellung zur Folge, dass der betreffende Service nicht erbracht werden kann. Ansonsten hat die Nichtbereitstellung ggf. zur Folge, dass wir unsere Dienste nicht in gleicher Form und Qualität erbringen können.",
+            "legalRequirement": false,
+            "contractualRegulation": false,
+            "obligationToProvide": false
+          }
+        },
+      {
+          "_id": "e4c66524-17ff-4574-bf4c-120e5214a058",
+          "category": "Kontaktdaten",
+          "purposes": [
+            {
+                "purpose":"Bereitstellung des geschützten Login-Bereichs",
+                "description":"Die Verarbeitung Ihrer personenbezogenen Daten erfolgt zum Zweck der Bereitstellung des geschützten Login-Bereichs sowie zum Zweck der Anmeldung, Organisation und Abwicklung Ihrer jeweiligen Anmeldung. "
+            },
+            {
+              "purpose": "Erfüllung des Grundsatzes der Richtigkeit nach Art. 5 Abs. 1 Buchst d) DSGVO",
+              "description": "Die Datenerhebungen erfolgen zum Zweck der Erfüllung des Grundsatzes der Richtigkeit nach Art. 5 Abs. 1 Buchst. d) DSGVO"
+            },
+            {
+              "purpose":"Gewinnspiele und Aktionen",
+              "description":"Kontaktaufnahme"
+            },
+            {
+              "purpose":"Online-Shopping im FOCUS-Online PDF-Shop",
+              "description":"Identifizierung; Kontaktaufnahme; Registrierung als Kunde; Altersüberprüfung; Bereitstellung interessengerechter Informationen; Übermittlung von Werbung für eigene und fremde Angebote "
+            },
+            {
+                "purpose":"Vertragsdurchführung",
+                "description":"Zweck der Vertragsdurchführung gemäß Art. 6 Abs. 1 Buchst. b) DSGVO"
+            },
+            {
+                "purpose":"Rechtsdurchsetzung und Inkasso",
+                "description":"Zweck der Rechtsdurchsetzung und zum Inkasso gemäß Art. 6 Abs. 1 Buchst. b) und f) DSGVO"
+            },
+            {
+                "purpose":"interessengerechten Direktwerbung ",
+                "description":"zum Zweck der möglichst interessengerechten Direktwerbung gemäß Art. 6 Abs. 1 Buchst. f) DSGVO in Verbindung mit ErwGr 46 DSGVO"
+            }
+          ],
+          "legalBases": [
+            {
+                "reference": "DSGVO-6-1-f",
+                "description": "Protokollierung des An- und Abmeldeverfahrens zu unserem Newsletter sowie Effektuierung der Versendung und Ausgestaltung unserer Newsletter mittels ergänzender Erfolgsmessungen"
+              },
+              {
+                "reference": "DSGVO-6-1-a",
+                "description": "Art. 6 Abs. 1 Satz 1 Buchstabe a DSGVO: Soweit Sie sich zur Authentifizierung mittels „Social Login“ entscheiden, erfolgt die Übermittlung ihrer personenbezogenen Daten zwischen dem jeweiligen sozialen Netzwerk und uns auf Grundlage ihrer Einwilligung"
+              }
+          ],
+          "legitimateInterests": [
+            {
+              "exists": true,
+              "reasoning":"Protokollierung des An- und Abmeldeverfahrens zu unserem Newsletter sowie Effektuierung der Versendung und Ausgestaltung unserer Newsletter mittels ergänzender Erfolgsmessungen",
+            },
+            {
+              "exists":true,
+              "reasoning":"Werbezwecke; Pflege der Kundenbeziehung; Vermarktung unserer Services"
+            }
+          ],
+          "recipients": [
+            {
+              "name": null,
+              "country": null,
+              "division": null,
+              "address": null,
+              "representative": null,
+              "category": "Hostingdienstleister"
+            },
+            {
+                "name": null,
+                "country": null,
+                "division": null,
+                "address": null,
+                "representative": null,
+                "category": "staatliche Behörden"
+              },
+              {
+                  "name": null,
+                  "country": null,
+                  "division": null,
+                  "address": null,
+                  "representative": null,
+                  "category": "Dienstleister für Gewinnspiel. bzw. Aktionsdurchführung"
+                }
+          ],
+          "storage": [
+            {
+              "purposeConditional":"Personenbezogene Daten werden gelöscht, sobald deren weitergehende Verarbeitung nicht mehr für die jeweilige Zweckerreichung erforderlich ist und gesetzliche Aufbewahrungsfristen einer Löschung nicht entgegenstehen. Dies ist regelmäßig mit Löschung Ihres Nutzerkontos der Fall. ",
+              "aggregationFunction": "max"
+            },
+            {
+                "purposeConditional":"Dauer der Registrierung",
+                "aggregationFunction":"max"
+            },
+            {
+              "purposeConditional":"Dauer des Gewinnspiels/der Aktion",
+              "aggregationFunction":"max"
+            },
+            {
+              "purposeConditional":"10 Jahre nach Abwicklung der letzten Bestellung ",
+              "aggregationFunction":"max"
+            }
+          ],
+          "nonDisclosure": {
+            "consequences": " Bei erforderlichen Daten hat die Nichtbereitstellung zur Folge, dass der betreffende Service nicht erbracht werden kann. Ansonsten hat die Nichtbereitstellung ggf. zur Folge, dass wir unsere Dienste nicht in gleicher Form und Qualität erbringen können.",
+            "legalRequirement": false,
+            "contractualRegulation": false,
+            "obligationToProvide": false
+          }
+        },
+      {
+          "_id": "e58a5115-de3f-4f5a-b8fb-ead95c861aab",
+          "category": "Anmeldedaten",
+          "purposes": [
+            {
+                "purpose":"Bereitstellung des geschützten Login-Bereichs",
+                "description":"Die Verarbeitung Ihrer personenbezogenen Daten erfolgt zum Zweck der Bereitstellung des geschützten Login-Bereichs sowie zum Zweck der Anmeldung, Organisation und Abwicklung Ihrer jeweiligen Anmeldung. "
+            },
+            {
+              "purpose":"Allgemeiner Newsletter",
+              "description":"Verifikation des Registrierungsprozesses („Double Opt-In“) samt Nachvollziehbarkeit der erfolgten An- und Abmeldungen („Protokollierung“); Versendung sowie interessengerechte Gestaltung des Newsletters; Messung der Öffnungs- und Klickraten zum Zweck der Optimierung unseres Newsletter-Angebots "
+            },
+            {
+              "purpose": "Erfüllung des Grundsatzes der Richtigkeit nach Art. 5 Abs. 1 Buchst d) DSGVO",
+              "description": "Die Datenerhebungen erfolgen zum Zweck der Erfüllung des Grundsatzes der Richtigkeit nach Art. 5 Abs. 1 Buchst. d) DSGVO"
+            },
+            {
+                "purpose":"Vertragsdurchführung",
+                "description":"Zweck der Vertragsdurchführung gemäß Art. 6 Abs. 1 Buchst. b) DSGVO"
+            },
+            {
+                "purpose":"Rechtsdurchsetzung und Inkasso",
+                "description":"Zweck der Rechtsdurchsetzung und zum Inkasso gemäß Art. 6 Abs. 1 Buchst. b) und f) DSGVO"
+            },
+            {
+                "purpose":"interessengerechten Direktwerbung ",
+                "description":"zum Zweck der möglichst interessengerechten Direktwerbung gemäß Art. 6 Abs. 1 Buchst. f) DSGVO in Verbindung mit ErwGr 46 DSGVO"
+            }
+          ],
+          "legalBases": [
+            {
+                "reference": "DSGVO-6-1-b",
+                "description": "Art. 6 Abs. 1 Satz 1 lit. b DSGVO: Mit Abschluss der Registrierung schließen Sie einen Vertrag über die Nutzung des geschützten Login-Bereichs innerhalb der BurdaForward-Webseiten. Details dazu können Sie unseren Nutzungsbedingungen entnehmen."
+              },
+              {
+                "reference": "DSGVO-6-1-a",
+                "description": "Art. 6 Abs. 1 Satz 1 Buchstabe a DSGVO: Soweit Sie sich zur Authentifizierung mittels „Social Login“ entscheiden, erfolgt die Übermittlung ihrer personenbezogenen Daten zwischen dem jeweiligen sozialen Netzwerk und uns auf Grundlage ihrer Einwilligung"
+              },
+              {
+                  "reference":"DSGVO-6-1-f",
+                  "description":"Verifikation des Registrierungsprozesses („Double Opt-In“) samt Nachvollziehbarkeit der erfolgten An- und Abmeldungen („Protokollierung“); Versendung sowie interessengerechte Gestaltung des Newsletters; Messung der Öffnungs- und Klickraten zum Zweck der Optimierung unseres Newsletter-Angebots "
+              }
+          ],
+          "legitimateInterests": [
+            {
+              "exists": true,
+              "reasoning":"Verifikation des Registrierungsprozesses („Double Opt-In“) samt Nachvollziehbarkeit der erfolgten An- und Abmeldungen („Protokollierung“); Versendung sowie interessengerechte Gestaltung des Newsletters; Messung der Öffnungs- und Klickraten zum Zweck der Optimierung unseres Newsletter-Angebots ",
+            }
+          ],
+          "recipients": [
+            {
+              "name": null,
+              "country": null,
+              "division": null,
+              "address": null,
+              "representative": null,
+              "category": "Hostingdienstleister"
+            },
+            {
+                "name": null,
+                "country": null,
+                "division": null,
+                "address": null,
+                "representative": null,
+                "category": "staatliche Behörden"
+              },
+              {
+                  "name": null,
+                  "country": null,
+                  "division": null,
+                  "address": null,
+                  "representative": null,
+                  "category": "Dienstleister für den Newsletterversand"
+                },
+                {
+                  "name": null,
+                  "country": null,
+                  "division": null,
+                  "address": null,
+                  "representative": null,
+                  "category": "Unternehmen innerhalb der Unternehmensgruppe"
+                },
+              {
+                "name": "Meta Platforms Ireland Limited",
+                "country": "IE",
+                "division": null,
+                "address": " Meta Platforms Ireland Limited, Hanover Reach, 5-7 Hanover Quay, Dublin 2, Ireland",
+                "representative": null,
+                "category": "Social Media"
+              },
+              {
+                "name": "Apple Inc.",
+                "country": "US",
+                "division": null,
+                "address": "Apple Inc., Infinite Loop, Cupertino, CA 95014, USA",
+                "representative": null,
+                "category": null
+              },
+              {
+                "name": "Google Ireland Ltd",
+                "country": "US",
+                "division": null,
+                "address": "Google Ireland Ltd, Gordon House, Barrow Street, Dublin 4, Ireland",
+                "representative": null,
+                "category": null
+              }
+          ],
+          "storage": [
+            {
+              "purposeConditional":"Personenbezogene Daten werden gelöscht, sobald deren weitergehende Verarbeitung nicht mehr für die jeweilige Zweckerreichung erforderlich ist und gesetzliche Aufbewahrungsfristen einer Löschung nicht entgegenstehen. Dies ist regelmäßig mit Löschung Ihres Nutzerkontos der Fall. ",
+              "aggregationFunction": "max"
+            }
+          ],
+          "nonDisclosure": {
+            "consequences": " Bei erforderlichen Daten hat die Nichtbereitstellung zur Folge, dass der betreffende Service nicht erbracht werden kann. Ansonsten hat die Nichtbereitstellung ggf. zur Folge, dass wir unsere Dienste nicht in gleicher Form und Qualität erbringen können.",
+            "legalRequirement": false,
+            "contractualRegulation": false,
+            "obligationToProvide": false
+          }
+        },
+        {
+          "_id": "cbed1ee2-df0d-4875-9a61-2017420541ac",
+          "category": "Personenstammdaten",
+          "purposes": [
+            {
+                "purpose":"Bereitstellung des geschützten Login-Bereichs",
+                "description":"Die Verarbeitung Ihrer personenbezogenen Daten erfolgt zum Zweck der Bereitstellung des geschützten Login-Bereichs sowie zum Zweck der Anmeldung, Organisation und Abwicklung Ihrer jeweiligen Anmeldung. "
+            },
+            {
+              "description":"Teilnahme im Rahmen der FOCUS Online Community",
+              "purpose":"Identifizierung; Kontaktaufnahme; Prüfung der Zugangsberechtigung"
+            },
+            {
+              "purpose":"Allgemeiner Newsletter",
+              "description":"Verifikation des Registrierungsprozesses („Double Opt-In“) samt Nachvollziehbarkeit der erfolgten An- und Abmeldungen („Protokollierung“); Versendung sowie interessengerechte Gestaltung des Newsletters; Messung der Öffnungs- und Klickraten zum Zweck der Optimierung unseres Newsletter-Angebots "
+            },
+            {
+              "purpose":"Gewinnspiele und Aktionen",
+              "description":"Identifizierung; Altersverifikation"
+            },
+            {
+              "purpose":"Online-Shopping im FOCUS-Online PDF-Shop",
+              "description":"Identifizierung; Kontaktaufnahme; Registrierung als Kunde; Altersüberprüfung; Bereitstellung interessengerechter Informationen; Übermittlung von Werbung für eigene und fremde Angebote "
+            },
+            {
+              "purpose":"Kunden-Feedback oder Kontaktaufnahme mit dem Kunden-Service",
+              "description":"Bearbeitung von Kundenanfragen und Nutzerbeschwerden "
+            },
+            {
+              "purpose": "Erfüllung des Grundsatzes der Richtigkeit nach Art. 5 Abs. 1 Buchst d) DSGVO",
+              "description": "Die Datenerhebungen erfolgen zum Zweck der Erfüllung des Grundsatzes der Richtigkeit nach Art. 5 Abs. 1 Buchst. d) DSGVO"
+            },
+            {
+                "purpose":"Vertragsdurchführung",
+                "description":"Zweck der Vertragsdurchführung gemäß Art. 6 Abs. 1 Buchst. b) DSGVO"
+            },
+            {
+                "purpose":"Rechtsdurchsetzung und Inkasso",
+                "description":"Zweck der Rechtsdurchsetzung und zum Inkasso gemäß Art. 6 Abs. 1 Buchst. b) und f) DSGVO"
+            },
+            {
+                "purpose":"interessengerechten Direktwerbung ",
+                "description":"zum Zweck der möglichst interessengerechten Direktwerbung gemäß Art. 6 Abs. 1 Buchst. f) DSGVO in Verbindung mit ErwGr 46 DSGVO"
+            }
+          ],
+          "legalBases": [
+            {
+                "reference": "DSGVO-6-1-b",
+                "description": "Art. 6 Abs. 1 Satz 1 lit. b DSGVO: Mit Abschluss der Registrierung schließen Sie einen Vertrag über die Nutzung des geschützten Login-Bereichs innerhalb der BurdaForward-Webseiten. Details dazu können Sie unseren Nutzungsbedingungen entnehmen."
+              },
+              {
+                "reference": "DSGVO-6-1-a",
+                "description": "Art. 6 Abs. 1 Satz 1 Buchstabe a DSGVO: Soweit Sie sich zur Authentifizierung mittels „Social Login“ entscheiden, erfolgt die Übermittlung ihrer personenbezogenen Daten zwischen dem jeweiligen sozialen Netzwerk und uns auf Grundlage ihrer Einwilligung"
+              },
+              {
+                  "reference":"DSGVO-6-1-f",
+                  "description":"Protokollierung des An- und Abmeldeverfahrens zu unserem Newsletter sowie Effektuierung der Versendung und Ausgestaltung unserer Newsletter mittels ergänzender Erfolgsmessungen"
+              }
+          ],
+          "legitimateInterests": [
+            {
+              "exists": true,
+              "reasoning":"Protokollierung des An- und Abmeldeverfahrens zu unserem Newsletter sowie Effektuierung der Versendung und Ausgestaltung unserer Newsletter mittels ergänzender Erfolgsmessungen",
+            },
+            {
+              "exists":true,
+              "reasoning":"Werbezwecke; Pflege der Kundenbeziehung; Vermarktung unserer Services"
+            },
+            {
+              "exists":true,
+              "reasoning":"Verbesserung unseres Service; Kundenbindung"
+            }
+          ],
+          "recipients": [
+            {
+              "name": null,
+              "country": null,
+              "division": null,
+              "address": null,
+              "representative": null,
+              "category": "Hostingdienstleister"
+            },
+            {
+                "name": null,
+                "country": null,
+                "division": null,
+                "address": null,
+                "representative": null,
+                "category": "staatliche Behörden"
+              },
+              {
+                  "name": null,
+                  "country": null,
+                  "division": null,
+                  "address": null,
+                  "representative": null,
+                  "category": "Dienstleister für Gewinnspiel. bzw. Aktionsdurchführung"
+                },
+              {
+                "name": "Meta Platforms Ireland Limited",
+                "country": "IE",
+                "division": null,
+                "address": " Meta Platforms Ireland Limited, Hanover Reach, 5-7 Hanover Quay, Dublin 2, Ireland",
+                "representative": null,
+                "category": "Social Media"
+              },
+              {
+                "name": "Apple Inc.",
+                "country": "US",
+                "division": null,
+                "address": "Apple Inc., Infinite Loop, Cupertino, CA 95014, USA",
+                "representative": null,
+                "category": null
+              },
+              {
+                "name": "Google Ireland Ltd",
+                "country": "US",
+                "division": null,
+                "address": "Google Ireland Ltd, Gordon House, Barrow Street, Dublin 4, Ireland",
+                "representative": null,
+                "category": null
+              }
+          ],
+          "storage": [
+            {
+              "purposeConditional":"Personenbezogene Daten werden gelöscht, sobald deren weitergehende Verarbeitung nicht mehr für die jeweilige Zweckerreichung erforderlich ist und gesetzliche Aufbewahrungsfristen einer Löschung nicht entgegenstehen. Dies ist regelmäßig mit Löschung Ihres Nutzerkontos der Fall. ",
+              "aggregationFunction": "max"
+            },
+            {
+              "purposeConditional":"Dauer der Registrierung",
+              "aggregationFunction":"max"
+            },
+            {
+              "purposeConditional":"Dauer des Gewinnspiels/der Aktion",
+              "aggregationFunction":"max"
+            },
+            {
+              "temporal":"P10Y",
+              "purposeConditional":"10 Jahre nach Abwicklung der letzten Bestellung ",
+              "aggregationFunction":"max"
+            },
+            {
+              "purposeConditional":"Bearbeitung der Anfrage",
+              "aggregationFunction":"max"
+            }
+          ],
+          "nonDisclosure": {
+            "consequences": " Bei erforderlichen Daten hat die Nichtbereitstellung zur Folge, dass der betreffende Service nicht erbracht werden kann. Ansonsten hat die Nichtbereitstellung ggf. zur Folge, dass wir unsere Dienste nicht in gleicher Form und Qualität erbringen können.",
+            "legalRequirement": false,
+            "contractualRegulation": false,
+            "obligationToProvide": false
+          }
+        },
+        {
+          "_id": "aaeadd24-3ec9-4280-aecd-f81ceba82e70",
+          "category": "Nutzerkontodaten",
+          "purposes": [
+            {
+                "purpose":"Bereitstellung des geschützten Login-Bereichs",
+                "description":"Die Verarbeitung Ihrer personenbezogenen Daten erfolgt zum Zweck der Bereitstellung des geschützten Login-Bereichs sowie zum Zweck der Anmeldung, Organisation und Abwicklung Ihrer jeweiligen Anmeldung. "
+            },
+            {
+              "purpose": "Erfüllung des Grundsatzes der Richtigkeit nach Art. 5 Abs. 1 Buchst d) DSGVO",
+              "description": "Die Datenerhebungen erfolgen zum Zweck der Erfüllung des Grundsatzes der Richtigkeit nach Art. 5 Abs. 1 Buchst. d) DSGVO"
+            },
+            {
+                "purpose":"Vertragsdurchführung",
+                "description":"Zweck der Vertragsdurchführung gemäß Art. 6 Abs. 1 Buchst. b) DSGVO"
+            },
+            {
+                "purpose":"Rechtsdurchsetzung und Inkasso",
+                "description":"Zweck der Rechtsdurchsetzung und zum Inkasso gemäß Art. 6 Abs. 1 Buchst. b) und f) DSGVO"
+            },
+            {
+                "purpose":"interessengerechten Direktwerbung ",
+                "description":"zum Zweck der möglichst interessengerechten Direktwerbung gemäß Art. 6 Abs. 1 Buchst. f) DSGVO in Verbindung mit ErwGr 46 DSGVO"
+            }
+          ],
+          "legalBases": [
+            {
+                "reference": "DSGVO-6-1-b",
+                "description": "Art. 6 Abs. 1 Satz 1 lit. b DSGVO: Mit Abschluss der Registrierung schließen Sie einen Vertrag über die Nutzung des geschützten Login-Bereichs innerhalb der BurdaForward-Webseiten. Details dazu können Sie unseren Nutzungsbedingungen entnehmen."
+              },
+              {
+                "reference": "DSGVO-6-1-a",
+                "description": "Art. 6 Abs. 1 Satz 1 Buchstabe a DSGVO: Soweit Sie sich zur Authentifizierung mittels „Social Login“ entscheiden, erfolgt die Übermittlung ihrer personenbezogenen Daten zwischen dem jeweiligen sozialen Netzwerk und uns auf Grundlage ihrer Einwilligung"
+              }
+          ],
+          "legitimateInterests": [
+            {
+              "exists": false,
+              "reasoning":null,
+            }
+          ],
+          "recipients": [
+            {
+              "name": null,
+              "country": null,
+              "division": null,
+              "address": null,
+              "representative": null,
+              "category": "Hostingdienstleister"
+            },
+            {
+                "name": null,
+                "country": null,
+                "division": null,
+                "address": null,
+                "representative": null,
+                "category": "staatliche Behörden"
+              },
+              {
+                "name": "Meta Platforms Ireland Limited",
+                "country": "IE",
+                "division": null,
+                "address": " Meta Platforms Ireland Limited, Hanover Reach, 5-7 Hanover Quay, Dublin 2, Ireland",
+                "representative": null,
+                "category": "Social Media"
+              },
+              {
+                "name": "Apple Inc.",
+                "country": "US",
+                "division": null,
+                "address": "Apple Inc., Infinite Loop, Cupertino, CA 95014, USA",
+                "representative": null,
+                "category": null
+              },
+              {
+                "name": "Google Ireland Ltd",
+                "country": "US",
+                "division": null,
+                "address": "Google Ireland Ltd, Gordon House, Barrow Street, Dublin 4, Ireland",
+                "representative": null,
+                "category": null
+              }
+          ],
+          "storage": [
+            {
+              "purposeConditional":"Personenbezogene Daten werden gelöscht, sobald deren weitergehende Verarbeitung nicht mehr für die jeweilige Zweckerreichung erforderlich ist und gesetzliche Aufbewahrungsfristen einer Löschung nicht entgegenstehen. Dies ist regelmäßig mit Löschung Ihres Nutzerkontos der Fall. ",
+              "aggregationFunction": "max"
+            }
+          ],
+          "nonDisclosure": {
+            "consequences": " Bei erforderlichen Daten hat die Nichtbereitstellung zur Folge, dass der betreffende Service nicht erbracht werden kann. Ansonsten hat die Nichtbereitstellung ggf. zur Folge, dass wir unsere Dienste nicht in gleicher Form und Qualität erbringen können.",
+            "legalRequirement": false,
+            "contractualRegulation": false,
+            "obligationToProvide": false
+          }
+        },
+        {
+          "_id": "15e948ec-06f4-48dc-85e5-dc242e92e952",
+          "category": "Zugriffsdaten",
+          "purposes": [
+              {
+                  "purpose":"Aufrufen unserer Services",
+                  "description":"Verbindungsaufbau; Darstellung der Inhalte des Service; Fehlerdiagnose"
+              },
+              {
+                  "purpose":"Allgemeiner Newsletter",
+                  "description":"Verifikation des Registrierungsprozesses („Double Opt-In“) samt Nachvollziehbarkeit der erfolgten An- und Abmeldungen („Protokollierung“); Versendung sowie interessengerechte Gestaltung des Newsletters; Messung der Öffnungs- und Klickraten zum Zweck der Optimierung unseres Newsletter-Angebots "
+              },
+            {
+                "purpose":"Bereitstellung des geschützten Login-Bereichs",
+                "description":"Die Verarbeitung Ihrer personenbezogenen Daten erfolgt zum Zweck der Bereitstellung des geschützten Login-Bereichs sowie zum Zweck der Anmeldung, Organisation und Abwicklung Ihrer jeweiligen Anmeldung. "
+            },
+            {
+              "purpose":"Umfragen",
+              "description":"Schutz vor Manipulationsversuchen, insbes. Verhinderung unerlaubter Mehrfachteilnahme "
+            },
+            {
+              "purpose": "Erfüllung des Grundsatzes der Richtigkeit nach Art. 5 Abs. 1 Buchst d) DSGVO",
+              "description": "Die Datenerhebungen erfolgen zum Zweck der Erfüllung des Grundsatzes der Richtigkeit nach Art. 5 Abs. 1 Buchst. d) DSGVO"
+            },
+            {
+                "purpose":"Vertragsdurchführung",
+                "description":"Zweck der Vertragsdurchführung gemäß Art. 6 Abs. 1 Buchst. b) DSGVO"
+            },
+            {
+                "purpose":"Rechtsdurchsetzung und Inkasso",
+                "description":"Zweck der Rechtsdurchsetzung und zum Inkasso gemäß Art. 6 Abs. 1 Buchst. b) und f) DSGVO"
+            },
+            {
+                "purpose":"interessengerechten Direktwerbung ",
+                "description":"zum Zweck der möglichst interessengerechten Direktwerbung gemäß Art. 6 Abs. 1 Buchst. f) DSGVO in Verbindung mit ErwGr 46 DSGVO"
+            }
+          ],
+          "legalBases": [
+            {
+                "reference": "DSGVO-6-1-b",
+                "description": "Art. 6 Abs. 1 Satz 1 lit. b DSGVO: Mit Abschluss der Registrierung schließen Sie einen Vertrag über die Nutzung des geschützten Login-Bereichs innerhalb der BurdaForward-Webseiten. Details dazu können Sie unseren Nutzungsbedingungen entnehmen."
+              },
+              {
+                "reference": "DSGVO-6-1-a",
+                "description": "Art. 6 Abs. 1 Satz 1 Buchstabe a DSGVO: Soweit Sie sich zur Authentifizierung mittels „Social Login“ entscheiden, erfolgt die Übermittlung ihrer personenbezogenen Daten zwischen dem jeweiligen sozialen Netzwerk und uns auf Grundlage ihrer Einwilligung"
+              },
+              {
+                  "reference":"DSGVO-6-1-f",
+                  "description":"Von uns verfolgtes berechtigtes Interesse:ordnungsgemäße Funktion der Services; Sicherheit von Daten und Geschäftsprozessen; Verhinderung von Missbrauch; Verhütung von Schäden durch Eingriffe in Informationssysteme"
+              }
+          ],
+          "legitimateInterests": [
+            {
+              "exists": true,
+              "reasoning":"ordnungsgemäße Funktion der Services; Sicherheit von Daten und Geschäftsprozessen; Verhinderung von Missbrauch; Verhütung von Schäden durch Eingriffe in Informationssysteme",
+            },
+            {
+              "exists": true,
+              "reasoning":"Verhinderung von Missbrauch"
+          }
+          ],
+          "recipients": [
+            {
+              "name": null,
+              "country": null,
+              "division": null,
+              "address": null,
+              "representative": null,
+              "category": "Hostingdienstleister"
+            },
+            {
+                "name": null,
+                "country": null,
+                "division": null,
+                "address": null,
+                "representative": null,
+                "category": "staatliche Behörden"
+              },
+              {
+                  "name": null,
+                  "country": null,
+                  "division": null,
+                  "address": null,
+                  "representative": null,
+                  "category": "externe Inhalteanbieter"
+                },
+                {
+                  "name": null,
+                  "country": null,
+                  "division": null,
+                  "address": null,
+                  "representative": null,
+                  "category": "Dienstleister für Umfragentool"
+                },
+              {
+                "name": "Meta Platforms Ireland Limited",
+                "country": "IE",
+                "division": null,
+                "address": " Meta Platforms Ireland Limited, Hanover Reach, 5-7 Hanover Quay, Dublin 2, Ireland",
+                "representative": null,
+                "category": "Social Media"
+              },
+              {
+                "name": "Apple Inc.",
+                "country": "US",
+                "division": null,
+                "address": "Apple Inc., Infinite Loop, Cupertino, CA 95014, USA",
+                "representative": null,
+                "category": null
+              },
+              {
+                "name": "Google Ireland Ltd",
+                "country": "US",
+                "division": null,
+                "address": "Google Ireland Ltd, Gordon House, Barrow Street, Dublin 4, Ireland",
+                "representative": null,
+                "category": null
+              }
+          ],
+          "storage": [
+            {
+              "purposeConditional":"Personenbezogene Daten werden gelöscht, sobald deren weitergehende Verarbeitung nicht mehr für die jeweilige Zweckerreichung erforderlich ist und gesetzliche Aufbewahrungsfristen einer Löschung nicht entgegenstehen. Dies ist regelmäßig mit Löschung Ihres Nutzerkontos der Fall. ",
+              "aggregationFunction": "max"
+            },
+            {
+              "temporal":"P4w",
+              "aggregationFunction":"max"
+            }
+          ],
+          "nonDisclosure": {
+            "consequences": " Bei erforderlichen Daten hat die Nichtbereitstellung zur Folge, dass der betreffende Service nicht erbracht werden kann. Ansonsten hat die Nichtbereitstellung ggf. zur Folge, dass wir unsere Dienste nicht in gleicher Form und Qualität erbringen können.",
+            "legalRequirement": false,
+            "contractualRegulation": false,
+            "obligationToProvide": false
+          }
+        },
+        {
+          "_id": "76fb678a-1944-4e07-b5ba-bc69683f8ec1",
+          "category": "Geolokalisationsdaten",
+          "purposes": [
+              {
+                  "purpose":"Bereitstellung ortbezogener Nachrichten und sonstiger Inhalte ",
+                  "description":"Bereitstellung ortbezogener Nachrichten und sonstiger Inhalte "
+              }
+          ],
+          "legalBases": [
+            {
+                "reference": "DSGVO-6-1-b",
+                "description": "Art. 6 Abs. 1 Satz 1 lit. b DSGVO"
+              }
+          ],
+          "legitimateInterests": [
+            {
+              "exists": false,
+              "reasoning":null,
+            }
+          ],
+          "recipients": [
+            {
+              "name": null,
+              "country": null,
+              "division": null,
+              "address": null,
+              "representative": null,
+              "category": "Hostingdienstleister"
+            },
+            {
+                "name": null,
+                "country": null,
+                "division": null,
+                "address": null,
+                "representative": null,
+                "category": "staatliche Behörden"
+              }
+          ],
+          "storage": [
+            {
+              "purposeConditional":"Dauer der Inanspruchnahme des jeweiligen ortsbezogenen Service",
+              "aggregationFunction": "max"
+            }
+          ],
+          "nonDisclosure": {
+            "consequences": "Bei erforderlichen Daten hat die Nichtbereitstellung zur Folge, dass der betreffende Service nicht erbracht werden kann. Ansonsten hat die Nichtbereitstellung ggf. zur Folge, dass wir unsere Dienste nicht in gleicher Form und Qualität erbringen können.",
+            "legalRequirement": false,
+            "contractualRegulation": false,
+            "obligationToProvide": false
+          }
+        }
+  
+    ],
+    "thirdCountryTransfers": [
+      {
+        "country": "Drittland",
+        "adequacyDecision": {
+          "available": true,
+          "description": "Wenn die Übermittlung der Daten an ein Drittland nicht zur Erfüllung unseres Vertrags mit Ihnen dient, wir keine Einwilligung Ihrerseits haben, die Übermittlung nicht zur Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen erforderlich ist und auch sonst keine Ausnahmeregelung nach Art. 49 DSGVO gilt, übermitteln wir Ihre Daten nur dann an ein Drittland, wenn ein Angemessenheitsbeschluss nach Art. 45 DSGVO oder geeignete Garantien nach Art. 46 DSGVO vorliegen."
+        },
+        "appropriateGuarantees": {
+          "available": true
+        },
+        "presenceOfEnforceableRightsAndEffectiveRemedies": {
+          "available": false
+        },
+        "standardDataProtectionClause": {
+          "available": true,
+          "description": "Wir erfüllen durch den Abschluss der von der Europäischen Kommission erlassenen EU-Standarddatenschutzklauseln mit der empfangenden Stelle die Anforderungen zur Überprüfung hinsichtlich geeigneter Garantien nach Art. 46 Abs. 2 Buchst. c) DSGVO, sowie hinsichtlich eines angemessenen Datenschutzniveaus im Drittland. Kopien der EU-Standarddatenschutzklauseln erhalten Sie auf der Website der Europäischen Kommission, abrufbar hier."
+        }
+      }
+    ],
+    "accessAndDataPortability": {
+      "available": true,
+      "description": "Sie haben das Recht, von uns eine Bestätigung darüber zu verlangen, ob Sie betreffende personenbezogene Daten verarbeitet werden, sowie ggf. auf Auskunft über diese personenbezogenen Daten und die weiteren in Art. 15 DSGVO aufgeführten Informationen",
+      "url": null,
+      "email": "focusonline@datenschutzanfrage.de",
+      "identificationEvidences": null,
+      "administrativeFee": {
+        "amount": null,
+        "currency": null
+      },
+      "dataFormats": null
+    },
+    "rightToInformation": {
+      "available": null,
+      "description": null,
+      "url": null,
+      "email": "focusonline@datenschutzanfrage.de",
+      "identificationEvidences": null
+    },
+    "rightToRectificationOrDeletion": {
+      "available": true,
+      "description": "Sie haben das Recht, von uns zu verlangen, dass Sie betreffende personenbezogene Daten unverzüglich gelöscht werden, sofern einer der in Art. 17 Abs. 1 DSGVO genannten Gründe zutrifft und die Verarbeitung nicht für einen der in Art. 17 Abs. 3 DSGVO geregelten Zwecke erforderlich ist.",
+      "url": null,
+      "email": "focusonline@datenschutzanfrage.de",
+      "identificationEvidences": null
+    },
+    "rightToDataPortability": {
+      "available": true,
+      "description": "Sie haben unter den in Art. 20 Abs. 1 DSGVO genannten Voraussetzungen das Recht, die Sie betreffenden personenbezogenen Daten, die Sie uns bereitgestellt haben, in einem strukturierten, gängigen und maschinenlesbaren Format zu erhalten, und das Recht, diese Daten einem anderen Verantwortlichen ohne Behinderung durch uns zu übermitteln. Bei der Ausübung des Rechts auf Datenübertragbarkeit haben Sie das Recht, zu erwirken, dass die personenbezogenen Daten direkt von uns an eine andere verantwortliche Stelle übermittelt werden, soweit dies technisch machbar ist.",
+      "url": null,
+      "email": "focusonline@datenschutzanfrage.de",
+      "identificationEvidences": null
+    },
+    "rightToWithdrawConsent": {
+      "available": true,
+      "description": "Soweit die Verarbeitung auf Ihrer Einwilligung beruht, haben Sie das Recht, die Einwilligung jederzeit zu widerrufen. Die Rechtmäßigkeit der aufgrund der Einwilligung bis zum Widerruf erfolgten Verarbeitung wird dadurch nicht berührt.",
+      "url": null,
+      "email": "focusonline@datenschutzanfrage.de",
+      "identificationEvidences": null
+    },
+    "rightToComplain": {
+      "available": true,
+      "description": "Sie haben ein Beschwerderecht bei der für unser Unternehmen zuständigen Aufsichtsbehörd",
+      "url": "https://datenschutzanfrage.de/?source=focusonline",
+      "email": "focusonline@datenschutzanfrage.de",
+      "identificationEvidences": null,
+      "supervisoryAuthority": {
+        "name": "Kandesamt für Datenschutzaufsicht",
+        "address": "Sie haben ein Beschwerderecht bei der für unser Unternehmen zuständigen Aufsichtsbehörd",
+        "country": "DE",
+        "email": null,
+        "phone": null
+      }
+    },
+    "automatedDecisionMaking": {
+      "logicInvolved": null,
+      "inUse": null,
+      "scopeAndIntendedEffects": null
+    },
+    "changesOfPurpose": [
+      {
+        "description": null,
+        "affectedDataCategories": null,
+        "plannedDateOfChange": null,
+        "urlOfNewVersion": null
+      }
+    ]
+  }
+  
