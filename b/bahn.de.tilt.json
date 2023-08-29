@@ -572,25 +572,6 @@
       }
     },
     {
-      "country": "IR",
-      "adequacyDecision": {
-        "available": null,
-        "description": null
-      },
-      "appropriateGuarantees": {
-        "available": null,
-        "description": null
-      },
-      "presenceOfEnforceableRightsAndEffectiveRemedies": {
-        "available": null,
-        "description": null
-      },
-      "standardDataProtectionClause": {
-        "available": "true",
-        "description": null
-      }
-    },
-    {
       "country": "DK",
       "adequacyDecision": {
         "available": null,
